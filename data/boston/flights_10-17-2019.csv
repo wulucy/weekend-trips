@@ -1,0 +1,25 @@
+,time,duration,price,date,origination,destination
+0,   8:40 PM   –   10:11 PM   ,1h 31m,      $209   ,10-17-2019,Philadelphia,Boston
+0,   6:00 AM   –   7:30 AM   ,1h 30m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   9:41 PM   –   11:18 PM   ,1h 37m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   8:46 AM   –   10:18 AM   ,1h 32m,      $209   ,10-17-2019,Philadelphia,Boston
+0,   10:38 AM   –   12:11 PM   ,1h 33m,      $209   ,10-17-2019,Philadelphia,Boston
+0,   12:40 PM   –   2:16 PM   ,1h 36m,      $209   ,10-17-2019,Philadelphia,Boston
+0,   6:51 PM   –   8:29 PM   ,1h 38m,      $209   ,10-17-2019,Philadelphia,Boston
+0,   5:00 AM   –   6:37 AM   ,1h 37m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   6:20 AM   –   8:02 AM   ,1h 42m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   7:38 AM   –   9:19 AM   ,1h 41m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   8:08 AM   –   9:50 AM   ,1h 42m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   9:27 AM   –   11:14 AM   ,1h 47m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   10:09 AM   –   11:44 AM   ,1h 35m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   10:45 AM   –   12:26 PM   ,1h 41m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   11:06 AM   –   12:39 PM   ,1h 33m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   1:00 PM   –   2:46 PM   ,1h 46m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   6:55 PM   –   8:44 PM   ,1h 49m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   7:47 PM   –   9:34 PM   ,1h 47m,      $214   ,10-17-2019,Philadelphia,Boston
+0,   2:30 PM   –   4:12 PM   ,1h 42m,      $254   ,10-17-2019,Philadelphia,Boston
+0,   4:30 PM   –   6:13 PM   ,1h 43m,      $254   ,10-17-2019,Philadelphia,Boston
+0,   3:54 PM   –   5:42 PM   ,1h 48m,      $314   ,10-17-2019,Philadelphia,Boston
+0,   7:07 PM   –   8:54 PM   ,1h 47m,      $324   ,10-17-2019,Philadelphia,Boston
+0,   5:50 PM   –   7:41 PM   ,1h 51m,      $430   ,10-17-2019,Philadelphia,Boston
+0,   4:54 PM   –   6:40 PM   ,1h 46m,      $909   ,10-17-2019,Philadelphia,Boston

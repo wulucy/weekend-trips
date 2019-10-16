@@ -1,0 +1,65 @@
+,depart,arrive,duration,price,carrier,date,origination,destination
+0,9:15 AM,12:10 PM,2h 55m,$14.00,Peter Pan Lines,10-17-2019,Philadelphia,DC
+0,2:45 PM,5:40 PM,2h 55m,$14.00,Peter Pan Lines,10-17-2019,Philadelphia,DC
+0,5:45 PM,8:40 PM,2h 55m,$14.00,Peter Pan Lines,10-17-2019,Philadelphia,DC
+0,10:30 AM,1:30 PM,3h 0m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,5:05 PM,7:07 PM,2h 2m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,7:15 AM,10:10 AM,2h 55m,$14.00,Peter Pan Lines,10-17-2019,Philadelphia,DC
+0,10:05 AM,1:35 PM,3h 30m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,11:30 AM,3:00 PM,3h 30m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,7:30 AM,11:00 AM,3h 30m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,5:35 PM,7:30 PM,1h 55m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,12:00 PM,3:05 PM,3h 5m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,8:00 PM,11:10 PM,3h 10m,$16.00,Greyhound,10-17-2019,Philadelphia,DC
+0,9:30 AM,1:05 PM,3h 35m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,1:05 PM,4:45 PM,3h 40m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,12:02 PM,1:58 PM,1h 56m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,1:40 PM,5:10 PM,3h 30m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,3:00 PM,6:50 PM,3h 50m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,3:25 PM,6:55 PM,3h 30m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,5:35 PM,8:40 PM,3h 5m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,8:19 PM,10:08 PM,1h 49m,$62.00,Amtrak Vermonter,10-17-2019,Philadelphia,DC
+0,10:25 PM,"1:20 AM+1Arrives Fri, Oct 18, 2019",2h 55m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,9:50 PM,"1:35 AM+1Arrives Fri, Oct 18, 2019",3h 45m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,6:45 AM,10:05 AM,3h 20m,$25.00,Megabus,10-17-2019,Philadelphia,DC
+0,6:15 AM,9:30 AM,3h 15m,$21.99,Megabus,10-17-2019,Philadelphia,DC
+0,7:15 PM,9:15 PM,2h 0m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,2:15 AM,5:30 AM,3h 15m,$21.99,Megabus,10-17-2019,Philadelphia,DC
+0,3:45 PM,7:55 PM,4h 10m,$15.00,Greyhound,10-17-2019,Philadelphia,DC
+0,4:15 AM,7:30 AM,3h 15m,$21.99,Megabus,10-17-2019,Philadelphia,DC
+0,6:49 AM,8:56 AM,2h 7m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,5:45 AM,9:25 AM,3h 40m,$18.99,Megabus,10-17-2019,Philadelphia,DC
+0,4:54 PM,6:50 PM,1h 56m,$99.00,Amtrak Silver Service,10-17-2019,Philadelphia,DC
+0,9:16 PM,11:14 PM,1h 58m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,10:40 PM,"12:35 AM+1Arrives Fri, Oct 18, 2019",1h 55m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,9:46 AM,11:42 AM,1h 56m,$79.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,12:35 PM,2:35 PM,2h 0m,$99.00,Amtrak Silver Service,10-17-2019,Philadelphia,DC
+0,8:35 AM,10:32 AM,1h 57m,$79.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,11:17 AM,1:19 PM,2h 2m,$79.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,1:03 PM,3:10 PM,2h 7m,$79.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,8:54 AM,10:48 AM,1h 54m,$99.00,Amtrak Carolinian,10-17-2019,Philadelphia,DC
+0,6:14 PM,8:13 PM,1h 59m,$99.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,7:56 PM,9:53 PM,1h 57m,$99.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,11:39 PM,"1:48 AM+1Arrives Fri, Oct 18, 2019",2h 9m,$62.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,7:33 AM,9:24 AM,1h 51m,$99.00,Amtrak Palmetto,10-17-2019,Philadelphia,DC
+0,4:31 PM,6:30 PM,1h 59m,$119.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,5:00 AM,7:00 AM,2h 0m,$79.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,3:55 PM,5:56 PM,2h 1m,$119.00,Amtrak Crescent,10-17-2019,Philadelphia,DC
+0,2:17 PM,4:22 PM,2h 5m,$119.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,3:30 PM,5:20 PM,1h 50m,$119.00,Amtrak Northeast Regional,10-17-2019,Philadelphia,DC
+0,8:17 PM,10:04 PM,1h 47m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,2:13 PM,4:00 PM,1h 47m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,7:20 AM,9:01 AM,1h 41m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,12:30 PM,2:13 PM,1h 43m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,1:16 PM,2:57 PM,1h 41m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,9:33 PM,11:15 PM,1h 42m,$131.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,9:16 AM,10:56 AM,1h 40m,$176.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,10:20 PM,11:59 PM,1h 39m,$131.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,5:14 PM,7:00 PM,1h 46m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,11:15 AM,1:00 PM,1h 45m,$153.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,4:18 PM,6:04 PM,1h 46m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,10:15 AM,11:59 AM,1h 44m,$176.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,6:13 PM,7:58 PM,1h 45m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,8:20 AM,9:59 AM,1h 39m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,7:14 PM,8:58 PM,1h 44m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC
+0,3:14 PM,4:58 PM,1h 44m,$224.00,Amtrak Acela,10-17-2019,Philadelphia,DC

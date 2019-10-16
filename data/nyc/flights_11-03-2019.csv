@@ -1,0 +1,11 @@
+,time,duration,price,date,origination,destination
+0,   5:45 AM   –   6:50 AM   ,1h 5m,      $170   ,11-03-2019,NYC,Philadelphia
+0,   1:00 PM   –   2:14 PM   ,1h 14m,      $170   ,11-03-2019,NYC,Philadelphia
+0,   3:15 PM   –   4:31 PM   ,1h 16m,      $170   ,11-03-2019,NYC,Philadelphia
+0,   6:30 PM   –   12:57 PM+1   ,18h 27m,   $157   ,11-03-2019,NYC,Philadelphia
+0,   5:01 AM   –   9:59 AM   ,4h 58m,      $200   ,11-03-2019,NYC,Philadelphia
+0,   5:00 PM   –   8:13 PM   ,3h 13m,      $208   ,11-03-2019,NYC,Philadelphia
+0,   11:00 PM   –   6:36 AM+1   ,7h 36m,      $211   ,11-03-2019,NYC,Philadelphia
+0,   9:13 AM   –   2:10 PM   ,4h 57m,      $240   ,11-03-2019,NYC,Philadelphia
+0,   9:30 AM   –   2:10 PM   ,4h 40m,      $257   ,11-03-2019,NYC,Philadelphia
+0,   3:36 PM   –   7:16 PM   ,3h 40m,      $291   ,11-03-2019,NYC,Philadelphia

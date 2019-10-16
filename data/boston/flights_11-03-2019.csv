@@ -1,0 +1,21 @@
+,time,duration,price,date,origination,destination
+0,   5:00 AM   –   6:36 AM   ,1h 36m,      $94   ,11-03-2019,Boston,Philadelphia
+0,   6:00 AM   –   7:36 AM   ,1h 36m,      $94   ,11-03-2019,Boston,Philadelphia
+0,   7:38 AM   –   9:17 AM   ,1h 39m,      $94   ,11-03-2019,Boston,Philadelphia
+0,   8:03 AM   –   9:44 AM   ,1h 41m,      $94   ,11-03-2019,Boston,Philadelphia
+0,   9:38 PM   –   11:15 PM   ,1h 37m,      $104   ,11-03-2019,Boston,Philadelphia
+0,   8:21 AM   –   9:59 AM   ,1h 38m,      $104   ,11-03-2019,Boston,Philadelphia
+0,   12:34 PM   –   2:10 PM   ,1h 36m,      $144   ,11-03-2019,Boston,Philadelphia
+0,   5:36 PM   –   7:16 PM   ,1h 40m,      $144   ,11-03-2019,Boston,Philadelphia
+0,   6:39 PM   –   8:20 PM   ,1h 41m,      $144   ,11-03-2019,Boston,Philadelphia
+0,   10:09 AM   –   11:43 AM   ,1h 34m,      $149   ,11-03-2019,Boston,Philadelphia
+0,   10:45 AM   –   12:26 PM   ,1h 41m,      $149   ,11-03-2019,Boston,Philadelphia
+0,   3:54 PM   –   5:42 PM   ,1h 48m,      $149   ,11-03-2019,Boston,Philadelphia
+0,   11:07 AM   –   12:44 PM   ,1h 37m,      $164   ,11-03-2019,Boston,Philadelphia
+0,   6:55 PM   –   8:44 PM   ,1h 49m,      $184   ,11-03-2019,Boston,Philadelphia
+0,   2:10 PM   –   3:47 PM   ,1h 37m,      $189   ,11-03-2019,Boston,Philadelphia
+0,   11:02 AM   –   12:36 PM   ,1h 34m,      $194   ,11-03-2019,Boston,Philadelphia
+0,   4:42 PM   –   6:25 PM   ,1h 43m,      $194   ,11-03-2019,Boston,Philadelphia
+0,   5:50 PM   –   7:35 PM   ,1h 45m,      $194   ,11-03-2019,Boston,Philadelphia
+0,   7:12 PM   –   8:56 PM   ,1h 44m,      $194   ,11-03-2019,Boston,Philadelphia
+0,   7:47 PM   –   9:31 PM   ,1h 44m,      $194   ,11-03-2019,Boston,Philadelphia

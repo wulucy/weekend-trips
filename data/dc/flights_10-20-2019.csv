@@ -1,0 +1,13 @@
+,time,duration,price,date,origination,destination
+0,   9:21 AM   –   10:14 AM   ,53m,      $390   ,10-20-2019,DC,Philadelphia
+0,   2:53 PM   –   3:47 PM   ,54m,      $390   ,10-20-2019,DC,Philadelphia
+0,   6:10 PM   –   7:09 PM   ,59m,      $390   ,10-20-2019,DC,Philadelphia
+0,   7:11 PM   –   8:10 PM   ,59m,      $390   ,10-20-2019,DC,Philadelphia
+0,   8:20 AM   –   3:34 PM   ,7h 14m,      $338   ,10-20-2019,DC,Philadelphia
+0,   8:02 AM   –   12:11 PM   ,4h 9m,      $379   ,10-20-2019,DC,Philadelphia
+0,   7:15 PM   –   11:33 PM   ,4h 18m,      $395   ,10-20-2019,DC,Philadelphia
+0,   8:00 AM   –   9:05 AM   ,1h 5m,      $408   ,10-20-2019,DC,Philadelphia
+0,   3:13 PM   –   4:25 PM   ,1h 12m,      $408   ,10-20-2019,DC,Philadelphia
+0,   7:10 PM   –   8:14 PM   ,1h 4m,      $408   ,10-20-2019,DC,Philadelphia
+0,   8:13 AM   –   12:11 PM   ,3h 58m,      $448   ,10-20-2019,DC,Philadelphia
+0,   8:10 PM   –   11:59 PM   ,3h 49m,      $499   ,10-20-2019,DC,Philadelphia

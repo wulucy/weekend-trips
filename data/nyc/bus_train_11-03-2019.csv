@@ -1,0 +1,159 @@
+,depart,arrive,duration,price,carrier,date,origination,destination
+0,8:45 AM,10:45 AM,2h 0m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,2:00 AM,4:15 AM,2h 15m,$5.00,Megabus,11-03-2019,NYC,Philadelphia
+0,4:00 PM,5:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,10:00 AM,11:50 AM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,9:09 AM,10:35 AM,1h 26m,$49.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,8:30 AM,10:20 AM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,2:35 PM,4:15 PM,1h 40m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:01 PM,1:50 PM,1h 49m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,11:00 AM,12:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,8:05 AM,9:33 AM,1h 28m,$49.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,3:00 PM,4:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,12:01 PM,2:00 PM,1h 59m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,7:30 AM,9:20 AM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,1:30 PM,3:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,3:00 AM,4:27 AM,1h 27m,$49.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,2:30 PM,4:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,8:00 AM,10:00 AM,2h 0m,$12.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,6:30 AM,8:20 AM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,4:30 PM,6:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,6:45 AM,8:07 AM,1h 22m,$49.00,Amtrak Cardinal,11-03-2019,NYC,Philadelphia
+0,5:30 PM,7:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,10:00 AM,11:59 AM,1h 59m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,7:30 PM,9:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,6:30 PM,8:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,7:00 AM,8:20 AM,1h 20m,$49.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,6:00 PM,7:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,8:45 PM,10:45 PM,2h 0m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,8:00 PM,9:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,1:00 PM,3:10 PM,2h 10m,$12.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,1:05 PM,2:26 PM,1h 21m,$49.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,5:00 PM,6:50 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,3:00 PM,5:00 PM,2h 0m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,9:15 AM,11:15 AM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,4:15 PM,6:15 PM,2h 0m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,4:05 PM,5:32 PM,1h 27m,$61.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,5:00 PM,7:10 PM,2h 10m,$12.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,3:45 PM,5:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,2:00 PM,4:00 PM,2h 0m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,2:45 AM,4:50 AM,2h 5m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,5:51 AM,7:29 AM,1h 38m,$49.00,Amtrak Palmetto,11-03-2019,NYC,Philadelphia
+0,4:00 PM,6:10 PM,2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,9:30 PM,11:20 PM,1h 50m,$10.00,Peter Pan Lines,11-03-2019,NYC,Philadelphia
+0,7:00 PM,9:00 PM,2h 0m,$12.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,6:00 PM,8:00 PM,2h 0m,$12.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,10:05 PM,11:33 PM,1h 28m,$49.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,11:00 AM,1:10 PM,2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,12:15 PM,2:15 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,9:00 AM,11:10 AM,2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,12:45 PM,2:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,9:10 PM,10:42 PM,1h 32m,$49.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,11:45 AM,1:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,6:45 AM,8:55 AM,2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,11:20 AM,1:25 PM,2h 5m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,2:35 PM,4:25 PM,1h 50m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,10:52 AM,12:15 PM,1h 23m,$61.00,Amtrak Pennsylvanian,11-03-2019,NYC,Philadelphia
+0,10:45 AM,12:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,10:15 AM,12:15 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,7:15 AM,9:15 AM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,3:05 PM,5:00 PM,1h 55m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:53 PM,9:15 PM,1h 22m,$61.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,4:45 PM,6:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,1:15 PM,3:15 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,9:10 AM,11:20 AM,2h 10m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,2:45 PM,4:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,3:13 PM,4:38 PM,1h 25m,$61.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,1:45 PM,3:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,4:05 PM,6:10 PM,2h 5m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:00 AM,1:15 AM,2h 15m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,9:10 AM,11:10 AM,2h 0m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:55 PM,2:19 PM,1h 24m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,6:45 PM,8:45 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,5:45 PM,7:45 PM,2h 0m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,3:05 PM,4:50 PM,1h 45m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,6:55 AM,9:05 AM,2h 10m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,9:05 AM,10:31 AM,1h 26m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,11:20 AM,1:15 PM,1h 55m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:15 PM,9:15 PM,2h 0m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,10:00 PM,"12:00 AM+1Arrives Mon, Nov 4, 2019",2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,8:30 PM,10:30 PM,2h 0m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,9:47 AM,11:15 AM,1h 28m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,4:05 PM,6:20 PM,2h 15m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:20 PM,2:30 PM,2h 10m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,11:50 AM,2:00 PM,2h 10m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,5:15 PM,7:15 PM,2h 0m,$12.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,5:17 PM,6:36 PM,1h 19m,$61.00,Amtrak Keystone Service,11-03-2019,NYC,Philadelphia
+0,6:55 AM,8:55 AM,2h 0m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,11:50 AM,1:50 PM,2h 0m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:20 PM,2:20 PM,2h 0m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,8:00 PM,10:10 PM,2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,6:05 PM,7:31 PM,1h 26m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,10:15 AM,12:25 PM,2h 10m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,10:15 AM,12:15 PM,2h 0m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,1:50 PM,3:55 PM,2h 5m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:00 AM,9:00 AM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,7:01 PM,8:30 PM,1h 29m,$80.00,Amtrak Vermonter,11-03-2019,NYC,Philadelphia
+0,8:00 AM,10:00 AM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,9:00 AM,11:00 AM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,1:50 PM,4:05 PM,2h 15m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,6:20 PM,8:20 PM,2h 0m,$17.00,Megabus,11-03-2019,NYC,Philadelphia
+0,11:05 AM,12:31 PM,1h 26m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,6:20 PM,8:30 PM,2h 10m,$17.00,Megabus,11-03-2019,NYC,Philadelphia
+0,10:00 AM,12:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,4:00 AM,6:15 AM,2h 15m,$11.00,Megabus,11-03-2019,NYC,Philadelphia
+0,4:50 PM,6:50 PM,2h 0m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:05 PM,1:33 PM,1h 28m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,4:50 PM,7:00 PM,2h 10m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,11:00 AM,1:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,7:40 PM,9:50 PM,2h 10m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:20 PM,9:30 PM,2h 10m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,3:04 PM,4:32 PM,1h 28m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,5:05 PM,7:10 PM,2h 5m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,12:00 PM,2:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,7:40 PM,9:40 PM,2h 0m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,5:20 PM,7:20 PM,2h 0m,$17.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:17 AM,8:49 AM,1h 32m,$61.00,Amtrak Carolinian,11-03-2019,NYC,Philadelphia
+0,5:20 PM,7:30 PM,2h 10m,$17.00,Megabus,11-03-2019,NYC,Philadelphia
+0,10:00 PM,"12:10 AM+1Arrives Mon, Nov 4, 2019",2h 10m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,8:20 PM,10:30 PM,2h 10m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,7:20 PM,9:20 PM,2h 0m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,5:05 PM,6:34 PM,1h 29m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,8:15 AM,10:45 AM,2h 30m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,5:05 PM,7:20 PM,2h 15m,$15.00,Megabus,11-03-2019,NYC,Philadelphia
+0,3:00 PM,5:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,9:20 PM,11:20 PM,2h 0m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,1:17 PM,2:47 PM,1h 30m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,9:50 PM,11:50 PM,2h 0m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,6:00 AM,8:00 AM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,8:20 PM,10:20 PM,2h 0m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,1:00 PM,3:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,2:15 PM,3:48 PM,1h 33m,$61.00,Amtrak Crescent,11-03-2019,NYC,Philadelphia
+0,2:00 PM,4:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,8:15 PM,10:45 PM,2h 30m,$14.00,BoltBus,11-03-2019,NYC,Philadelphia
+0,4:00 PM,6:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,9:20 PM,11:30 PM,2h 10m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,11:02 AM,12:30 PM,1h 28m,$100.00,Amtrak Silver Service,11-03-2019,NYC,Philadelphia
+0,9:50 PM,"12:00 AM+1Arrives Mon, Nov 4, 2019",2h 10m,$13.00,Megabus,11-03-2019,NYC,Philadelphia
+0,3:00 PM,5:00 PM,2h 0m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,5:00 PM,7:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,7:00 PM,9:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,2:05 PM,3:34 PM,1h 29m,$154.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,6:00 PM,8:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,9:00 PM,11:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,8:00 PM,10:00 PM,2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,3:15 PM,4:48 PM,1h 33m,$120.00,Amtrak Silver Service,11-03-2019,NYC,Philadelphia
+0,10:00 PM,"12:00 AM+1Arrives Mon, Nov 4, 2019",2h 0m,$12.00,Wanda Coach,11-03-2019,NYC,Philadelphia
+0,7:10 AM,10:05 AM,2h 55m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,9:15 PM,11:50 PM,2h 35m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,8:01 PM,9:36 PM,1h 35m,$80.00,Amtrak Northeast Regional,11-03-2019,NYC,Philadelphia
+0,4:00 PM,7:00 PM,3h 0m,$11.00,Greyhound,11-03-2019,NYC,Philadelphia
+0,12:00 PM,1:13 PM,1h 13m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,4:00 PM,5:11 PM,1h 11m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,5:00 PM,6:13 PM,1h 13m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,9:00 AM,10:13 AM,1h 13m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,1:00 PM,2:12 PM,1h 12m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,3:00 PM,4:12 PM,1h 12m,$135.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,9:00 PM,10:09 PM,1h 9m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,7:00 PM,8:12 PM,1h 12m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia
+0,8:00 PM,9:12 PM,1h 12m,$115.00,Amtrak Acela,11-03-2019,NYC,Philadelphia

@@ -1,0 +1,461 @@
+,Unnamed: 0,Unnamed: 0.1,arrive,carrier,date,depart,destination,duration,origination,price
+0,0,,"6:50 AM+1Arrives Fri, Oct 25, 2019",Megabus,10-24-2019,11:50 PM,Boston,7h 0m,Philadelphia,$29.99
+1,0,,10:45 PM,BoltBus,10-24-2019,4:15 PM,Boston,6h 30m,Philadelphia,$25.00
+2,0,,2:20 PM,Greyhound,10-24-2019,7:15 AM,Boston,7h 5m,Philadelphia,$24.00
+3,0,,12:52 PM,Amtrak Northeast Regional,10-24-2019,6:54 AM,Boston,5h 58m,Philadelphia,$95.00
+4,0,,4:41 PM,Amtrak Northeast Regional,10-24-2019,10:40 AM,Boston,6h 1m,Philadelphia,$95.00
+5,0,,1:08 PM,Amtrak Northeast Regional,10-24-2019,6:54 AM,Boston,6h 14m,Philadelphia,$95.00
+6,0,,11:00 PM,Amtrak Acela,10-24-2019,5:35 PM,Boston,5h 25m,Philadelphia,$239.00
+7,0,,3:24 PM,Amtrak Northeast Regional,10-24-2019,9:20 AM,Boston,6h 4m,Philadelphia,$95.00
+8,0,,4:51 PM,Amtrak Northeast Regional,10-24-2019,10:40 AM,Boston,6h 11m,Philadelphia,$95.00
+9,0,,3:32 PM,Amtrak Northeast Regional,10-24-2019,9:20 AM,Boston,6h 12m,Philadelphia,$95.00
+10,0,,5:04 PM,Amtrak Acela,10-24-2019,11:38 AM,Boston,5h 26m,Philadelphia,$177.00
+11,0,,11:32 AM,Amtrak Northeast Regional,10-24-2019,5:14 AM,Boston,6h 18m,Philadelphia,$95.00
+12,0,,1:08 PM,Amtrak Northeast Regional,10-24-2019,6:46 AM,Boston,6h 22m,Philadelphia,$95.00
+13,0,,12:52 PM,Amtrak Northeast Regional,10-24-2019,6:46 AM,Boston,6h 6m,Philadelphia,$95.00
+14,0,,2:03 PM,Amtrak Acela,10-24-2019,8:38 AM,Boston,5h 25m,Philadelphia,$177.00
+15,0,,11:22 AM,Amtrak Northeast Regional,10-24-2019,5:14 AM,Boston,6h 8m,Philadelphia,$95.00
+16,0,,6:36 PM,Amtrak Northeast Regional,10-24-2019,12:05 PM,Boston,6h 31m,Philadelphia,$95.00
+17,0,,6:25 PM,Amtrak Northeast Regional,10-24-2019,12:05 PM,Boston,6h 20m,Philadelphia,$95.00
+18,0,,4:52 PM,Amtrak Acela,10-24-2019,11:38 AM,Boston,5h 14m,Philadelphia,$177.00
+19,0,,8:14 PM,Amtrak Northeast Regional,10-24-2019,1:58 PM,Boston,6h 16m,Philadelphia,$106.00
+20,0,,8:25 PM,Amtrak Northeast Regional,10-24-2019,1:58 PM,Boston,6h 27m,Philadelphia,$106.00
+21,0,,"12:32 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,5:59 PM,Boston,6h 33m,Philadelphia,$138.00
+22,0,,4:03 PM,Amtrak Acela,10-24-2019,10:38 AM,Boston,5h 25m,Philadelphia,$208.00
+23,0,,10:09 PM,Amtrak Northeast Regional,10-24-2019,3:59 PM,Boston,6h 10m,Philadelphia,$138.00
+24,0,,10:20 PM,Amtrak Northeast Regional,10-24-2019,3:59 PM,Boston,6h 21m,Philadelphia,$138.00
+25,0,,"12:23 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,5:59 PM,Boston,6h 24m,Philadelphia,$138.00
+26,0,,11:55 AM,Amtrak Acela,10-24-2019,6:34 AM,Boston,5h 21m,Philadelphia,$177.00
+27,0,,"7:58 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+28,0,,"7:53 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+29,0,,10:49 PM,Amtrak Acela,10-24-2019,5:35 PM,Boston,5h 14m,Philadelphia,$239.00
+30,0,,3:52 PM,Amtrak Acela,10-24-2019,10:38 AM,Boston,5h 14m,Philadelphia,$208.00
+31,0,,1:55 PM,Amtrak Acela,10-24-2019,8:38 AM,Boston,5h 17m,Philadelphia,$177.00
+32,0,,11:44 AM,Amtrak Acela,10-24-2019,6:34 AM,Boston,5h 10m,Philadelphia,$177.00
+33,0,,9:54 PM,Amtrak Acela,10-24-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+34,0,,6:39 PM,Amtrak Acela,10-24-2019,1:32 PM,Boston,5h 7m,Philadelphia,$260.00
+35,0,,6:46 PM,Amtrak Acela,10-24-2019,1:32 PM,Boston,5h 14m,Philadelphia,$260.00
+36,0,,9:42 PM,Amtrak Acela,10-24-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+37,0,,8:55 PM,Amtrak Acela,10-24-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+38,0,,7:54 PM,Amtrak Acela,10-24-2019,2:32 PM,Boston,5h 22m,Philadelphia,$305.00
+39,0,,8:47 PM,Amtrak Acela,10-24-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+40,0,,7:43 PM,Amtrak Acela,10-24-2019,2:32 PM,Boston,5h 11m,Philadelphia,$305.00
+0,0,,5:00 PM,Greyhound,11-03-2019,10:15 AM,Philadelphia,6h 45m,Boston,$26.00
+1,0,,5:20 PM,BoltBus,11-03-2019,10:15 AM,Philadelphia,7h 5m,Boston,$28.00
+2,0,,5:30 PM,Peter Pan Lines,11-03-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+3,0,,"2:15 AM+1Arrives Mon, Nov 4, 2019",Greyhound,11-03-2019,7:00 PM,Philadelphia,7h 15m,Boston,$26.00
+4,0,,"4:52 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,9:30 PM,Philadelphia,7h 22m,Boston,$85.00
+5,0,,8:50 PM,BoltBus,11-03-2019,2:15 PM,Philadelphia,6h 35m,Boston,$33.00
+6,0,,"4:52 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,9:36 PM,Philadelphia,7h 16m,Boston,$85.00
+7,0,,3:34 PM,Amtrak Northeast Regional,11-03-2019,9:30 AM,Philadelphia,6h 4m,Boston,$138.00
+8,0,,9:12 PM,Amtrak Acela,11-03-2019,4:00 PM,Philadelphia,5h 12m,Boston,$177.00
+9,0,,12:31 PM,Amtrak Northeast Regional,11-03-2019,6:30 AM,Philadelphia,6h 1m,Boston,$138.00
+10,0,,2:47 PM,Amtrak Northeast Regional,11-03-2019,8:35 AM,Philadelphia,6h 12m,Boston,$138.00
+11,0,,6:34 PM,Amtrak Northeast Regional,11-03-2019,12:10 PM,Philadelphia,6h 24m,Boston,$138.00
+12,0,,9:12 PM,Amtrak Acela,11-03-2019,4:05 PM,Philadelphia,5h 7m,Boston,$177.00
+13,0,,7:31 PM,Amtrak Northeast Regional,11-03-2019,1:10 PM,Philadelphia,6h 21m,Boston,$138.00
+14,0,,"12:36 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,6:25 PM,Philadelphia,6h 11m,Boston,$138.00
+15,0,,3:34 PM,Amtrak Northeast Regional,11-03-2019,9:35 AM,Philadelphia,5h 59m,Boston,$138.00
+16,0,,5:11 PM,Amtrak Acela,11-03-2019,11:55 AM,Philadelphia,5h 16m,Boston,$177.00
+17,0,,2:47 PM,Amtrak Northeast Regional,11-03-2019,8:40 AM,Philadelphia,6h 7m,Boston,$138.00
+18,0,,11:33 PM,Amtrak Northeast Regional,11-03-2019,5:25 PM,Philadelphia,6h 8m,Boston,$138.00
+19,0,,6:34 PM,Amtrak Northeast Regional,11-03-2019,12:16 PM,Philadelphia,6h 18m,Boston,$138.00
+20,0,,6:13 PM,Amtrak Acela,11-03-2019,12:55 PM,Philadelphia,5h 18m,Boston,$177.00
+21,0,,12:31 PM,Amtrak Northeast Regional,11-03-2019,6:35 AM,Philadelphia,5h 56m,Boston,$138.00
+22,0,,9:36 PM,Amtrak Northeast Regional,11-03-2019,3:05 PM,Philadelphia,6h 31m,Boston,$138.00
+23,0,,7:31 PM,Amtrak Northeast Regional,11-03-2019,1:15 PM,Philadelphia,6h 16m,Boston,$138.00
+24,0,,8:12 PM,Amtrak Acela,11-03-2019,3:00 PM,Philadelphia,5h 12m,Boston,$177.00
+25,0,,"12:36 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+26,0,,11:33 PM,Amtrak Northeast Regional,11-03-2019,5:30 PM,Philadelphia,6h 3m,Boston,$138.00
+27,0,,9:36 PM,Amtrak Northeast Regional,11-03-2019,3:11 PM,Philadelphia,6h 25m,Boston,$138.00
+28,0,,8:12 PM,Amtrak Acela,11-03-2019,3:06 PM,Philadelphia,5h 6m,Boston,$177.00
+29,0,,10:09 PM,Amtrak Acela,11-03-2019,4:56 PM,Philadelphia,5h 13m,Boston,$177.00
+30,0,,5:11 PM,Amtrak Acela,11-03-2019,12:00 PM,Philadelphia,5h 11m,Boston,$177.00
+31,0,,6:13 PM,Amtrak Acela,11-03-2019,1:01 PM,Philadelphia,5h 12m,Boston,$177.00
+32,0,,10:09 PM,Amtrak Acela,11-03-2019,4:50 PM,Philadelphia,5h 19m,Boston,$177.00
+33,0,,4:12 PM,Amtrak Acela,11-03-2019,11:00 AM,Philadelphia,5h 12m,Boston,$208.00
+34,0,,4:12 PM,Amtrak Acela,11-03-2019,11:05 AM,Philadelphia,5h 7m,Boston,$208.00
+0,0,,"6:50 AM+1Arrives Fri, Oct 18, 2019",Megabus,10-17-2019,11:50 PM,Boston,7h 0m,Philadelphia,$34.99
+1,0,,10:45 PM,BoltBus,10-17-2019,4:15 PM,Boston,6h 30m,Philadelphia,$25.00
+2,0,,2:20 PM,Greyhound,10-17-2019,7:15 AM,Boston,7h 5m,Philadelphia,$31.00
+3,0,,4:41 PM,Amtrak Northeast Regional,10-17-2019,10:40 AM,Boston,6h 1m,Philadelphia,$106.00
+4,0,,11:32 AM,Amtrak Northeast Regional,10-17-2019,5:14 AM,Boston,6h 18m,Philadelphia,$106.00
+5,0,,11:22 AM,Amtrak Northeast Regional,10-17-2019,5:14 AM,Boston,6h 8m,Philadelphia,$106.00
+6,0,,9:54 PM,Amtrak Acela,10-17-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+7,0,,4:51 PM,Amtrak Northeast Regional,10-17-2019,10:40 AM,Boston,6h 11m,Philadelphia,$106.00
+8,0,,12:52 PM,Amtrak Northeast Regional,10-17-2019,6:54 AM,Boston,5h 58m,Philadelphia,$138.00
+9,0,,1:08 PM,Amtrak Northeast Regional,10-17-2019,6:54 AM,Boston,6h 14m,Philadelphia,$138.00
+10,0,,9:42 PM,Amtrak Acela,10-17-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+11,0,,12:52 PM,Amtrak Northeast Regional,10-17-2019,6:46 AM,Boston,6h 6m,Philadelphia,$138.00
+12,0,,1:08 PM,Amtrak Northeast Regional,10-17-2019,6:46 AM,Boston,6h 22m,Philadelphia,$138.00
+13,0,,3:24 PM,Amtrak Northeast Regional,10-17-2019,9:20 AM,Boston,6h 4m,Philadelphia,$138.00
+14,0,,3:32 PM,Amtrak Northeast Regional,10-17-2019,9:20 AM,Boston,6h 12m,Philadelphia,$138.00
+15,0,,"12:32 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,5:59 PM,Boston,6h 33m,Philadelphia,$173.00
+16,0,,"12:23 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,5:59 PM,Boston,6h 24m,Philadelphia,$173.00
+17,0,,5:04 PM,Amtrak Acela,10-17-2019,11:38 AM,Boston,5h 26m,Philadelphia,$208.00
+18,0,,6:25 PM,Amtrak Northeast Regional,10-17-2019,12:05 PM,Boston,6h 20m,Philadelphia,$173.00
+19,0,,"7:58 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+20,0,,6:36 PM,Amtrak Northeast Regional,10-17-2019,12:05 PM,Boston,6h 31m,Philadelphia,$173.00
+21,0,,2:03 PM,Amtrak Acela,10-17-2019,8:38 AM,Boston,5h 25m,Philadelphia,$239.00
+22,0,,10:20 PM,Amtrak Northeast Regional,10-17-2019,3:59 PM,Boston,6h 21m,Philadelphia,$208.00
+23,0,,10:09 PM,Amtrak Northeast Regional,10-17-2019,3:59 PM,Boston,6h 10m,Philadelphia,$208.00
+24,0,,"7:53 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+25,0,,4:52 PM,Amtrak Acela,10-17-2019,11:38 AM,Boston,5h 14m,Philadelphia,$208.00
+26,0,,8:14 PM,Amtrak Northeast Regional,10-17-2019,1:58 PM,Boston,6h 16m,Philadelphia,$208.00
+27,0,,8:25 PM,Amtrak Northeast Regional,10-17-2019,1:58 PM,Boston,6h 27m,Philadelphia,$208.00
+28,0,,1:55 PM,Amtrak Acela,10-17-2019,8:38 AM,Boston,5h 17m,Philadelphia,$239.00
+29,0,,4:03 PM,Amtrak Acela,10-17-2019,10:38 AM,Boston,5h 25m,Philadelphia,$239.00
+30,0,,3:52 PM,Amtrak Acela,10-17-2019,10:38 AM,Boston,5h 14m,Philadelphia,$239.00
+31,0,,11:55 AM,Amtrak Acela,10-17-2019,6:34 AM,Boston,5h 21m,Philadelphia,$305.00
+32,0,,11:44 AM,Amtrak Acela,10-17-2019,6:34 AM,Boston,5h 10m,Philadelphia,$305.00
+33,0,,6:39 PM,Amtrak Acela,10-17-2019,1:32 PM,Boston,5h 7m,Philadelphia,$260.00
+34,0,,7:43 PM,Amtrak Acela,10-17-2019,2:32 PM,Boston,5h 11m,Philadelphia,$260.00
+35,0,,6:46 PM,Amtrak Acela,10-17-2019,1:32 PM,Boston,5h 14m,Philadelphia,$260.00
+36,0,,7:54 PM,Amtrak Acela,10-17-2019,2:32 PM,Boston,5h 22m,Philadelphia,$260.00
+37,0,,8:47 PM,Amtrak Acela,10-17-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+38,0,,8:55 PM,Amtrak Acela,10-17-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+39,0,,11:00 PM,Amtrak Acela,10-17-2019,5:35 PM,Boston,5h 25m,Philadelphia,$455.00
+40,0,,10:49 PM,Amtrak Acela,10-17-2019,5:35 PM,Boston,5h 14m,Philadelphia,$455.00
+0,0,0.0,"6:50 AM+1Arrives Fri, Oct 25, 2019",Megabus,10-24-2019,11:50 PM,Boston,7h 0m,Philadelphia,$29.99
+1,1,0.0,10:45 PM,BoltBus,10-24-2019,4:15 PM,Boston,6h 30m,Philadelphia,$25.00
+2,2,0.0,2:20 PM,Greyhound,10-24-2019,7:15 AM,Boston,7h 5m,Philadelphia,$24.00
+3,3,0.0,12:52 PM,Amtrak Northeast Regional,10-24-2019,6:54 AM,Boston,5h 58m,Philadelphia,$95.00
+4,4,0.0,4:41 PM,Amtrak Northeast Regional,10-24-2019,10:40 AM,Boston,6h 1m,Philadelphia,$95.00
+5,5,0.0,1:08 PM,Amtrak Northeast Regional,10-24-2019,6:54 AM,Boston,6h 14m,Philadelphia,$95.00
+6,6,0.0,11:00 PM,Amtrak Acela,10-24-2019,5:35 PM,Boston,5h 25m,Philadelphia,$239.00
+7,7,0.0,3:24 PM,Amtrak Northeast Regional,10-24-2019,9:20 AM,Boston,6h 4m,Philadelphia,$95.00
+8,8,0.0,4:51 PM,Amtrak Northeast Regional,10-24-2019,10:40 AM,Boston,6h 11m,Philadelphia,$95.00
+9,9,0.0,3:32 PM,Amtrak Northeast Regional,10-24-2019,9:20 AM,Boston,6h 12m,Philadelphia,$95.00
+10,10,0.0,5:04 PM,Amtrak Acela,10-24-2019,11:38 AM,Boston,5h 26m,Philadelphia,$177.00
+11,11,0.0,11:32 AM,Amtrak Northeast Regional,10-24-2019,5:14 AM,Boston,6h 18m,Philadelphia,$95.00
+12,12,0.0,1:08 PM,Amtrak Northeast Regional,10-24-2019,6:46 AM,Boston,6h 22m,Philadelphia,$95.00
+13,13,0.0,12:52 PM,Amtrak Northeast Regional,10-24-2019,6:46 AM,Boston,6h 6m,Philadelphia,$95.00
+14,14,0.0,2:03 PM,Amtrak Acela,10-24-2019,8:38 AM,Boston,5h 25m,Philadelphia,$177.00
+15,15,0.0,11:22 AM,Amtrak Northeast Regional,10-24-2019,5:14 AM,Boston,6h 8m,Philadelphia,$95.00
+16,16,0.0,6:36 PM,Amtrak Northeast Regional,10-24-2019,12:05 PM,Boston,6h 31m,Philadelphia,$95.00
+17,17,0.0,6:25 PM,Amtrak Northeast Regional,10-24-2019,12:05 PM,Boston,6h 20m,Philadelphia,$95.00
+18,18,0.0,4:52 PM,Amtrak Acela,10-24-2019,11:38 AM,Boston,5h 14m,Philadelphia,$177.00
+19,19,0.0,8:14 PM,Amtrak Northeast Regional,10-24-2019,1:58 PM,Boston,6h 16m,Philadelphia,$106.00
+20,20,0.0,8:25 PM,Amtrak Northeast Regional,10-24-2019,1:58 PM,Boston,6h 27m,Philadelphia,$106.00
+21,21,0.0,"12:32 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,5:59 PM,Boston,6h 33m,Philadelphia,$138.00
+22,22,0.0,4:03 PM,Amtrak Acela,10-24-2019,10:38 AM,Boston,5h 25m,Philadelphia,$208.00
+23,23,0.0,10:09 PM,Amtrak Northeast Regional,10-24-2019,3:59 PM,Boston,6h 10m,Philadelphia,$138.00
+24,24,0.0,10:20 PM,Amtrak Northeast Regional,10-24-2019,3:59 PM,Boston,6h 21m,Philadelphia,$138.00
+25,25,0.0,"12:23 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,5:59 PM,Boston,6h 24m,Philadelphia,$138.00
+26,26,0.0,11:55 AM,Amtrak Acela,10-24-2019,6:34 AM,Boston,5h 21m,Philadelphia,$177.00
+27,27,0.0,"7:58 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+28,28,0.0,"7:53 AM+1Arrives Fri, Oct 25, 2019",Amtrak Northeast Regional,10-24-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+29,29,0.0,10:49 PM,Amtrak Acela,10-24-2019,5:35 PM,Boston,5h 14m,Philadelphia,$239.00
+30,30,0.0,3:52 PM,Amtrak Acela,10-24-2019,10:38 AM,Boston,5h 14m,Philadelphia,$208.00
+31,31,0.0,1:55 PM,Amtrak Acela,10-24-2019,8:38 AM,Boston,5h 17m,Philadelphia,$177.00
+32,32,0.0,11:44 AM,Amtrak Acela,10-24-2019,6:34 AM,Boston,5h 10m,Philadelphia,$177.00
+33,33,0.0,9:54 PM,Amtrak Acela,10-24-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+34,34,0.0,6:39 PM,Amtrak Acela,10-24-2019,1:32 PM,Boston,5h 7m,Philadelphia,$260.00
+35,35,0.0,6:46 PM,Amtrak Acela,10-24-2019,1:32 PM,Boston,5h 14m,Philadelphia,$260.00
+36,36,0.0,9:42 PM,Amtrak Acela,10-24-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+37,37,0.0,8:55 PM,Amtrak Acela,10-24-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+38,38,0.0,7:54 PM,Amtrak Acela,10-24-2019,2:32 PM,Boston,5h 22m,Philadelphia,$305.00
+39,39,0.0,8:47 PM,Amtrak Acela,10-24-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+40,40,0.0,7:43 PM,Amtrak Acela,10-24-2019,2:32 PM,Boston,5h 11m,Philadelphia,$305.00
+41,0,0.0,5:00 PM,Greyhound,11-03-2019,10:15 AM,Philadelphia,6h 45m,Boston,$26.00
+42,1,0.0,5:20 PM,BoltBus,11-03-2019,10:15 AM,Philadelphia,7h 5m,Boston,$28.00
+43,2,0.0,5:30 PM,Peter Pan Lines,11-03-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+44,3,0.0,"2:15 AM+1Arrives Mon, Nov 4, 2019",Greyhound,11-03-2019,7:00 PM,Philadelphia,7h 15m,Boston,$26.00
+45,4,0.0,"4:52 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,9:30 PM,Philadelphia,7h 22m,Boston,$85.00
+46,5,0.0,8:50 PM,BoltBus,11-03-2019,2:15 PM,Philadelphia,6h 35m,Boston,$33.00
+47,6,0.0,"4:52 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,9:36 PM,Philadelphia,7h 16m,Boston,$85.00
+48,7,0.0,3:34 PM,Amtrak Northeast Regional,11-03-2019,9:30 AM,Philadelphia,6h 4m,Boston,$138.00
+49,8,0.0,9:12 PM,Amtrak Acela,11-03-2019,4:00 PM,Philadelphia,5h 12m,Boston,$177.00
+50,9,0.0,12:31 PM,Amtrak Northeast Regional,11-03-2019,6:30 AM,Philadelphia,6h 1m,Boston,$138.00
+51,10,0.0,2:47 PM,Amtrak Northeast Regional,11-03-2019,8:35 AM,Philadelphia,6h 12m,Boston,$138.00
+52,11,0.0,6:34 PM,Amtrak Northeast Regional,11-03-2019,12:10 PM,Philadelphia,6h 24m,Boston,$138.00
+53,12,0.0,9:12 PM,Amtrak Acela,11-03-2019,4:05 PM,Philadelphia,5h 7m,Boston,$177.00
+54,13,0.0,7:31 PM,Amtrak Northeast Regional,11-03-2019,1:10 PM,Philadelphia,6h 21m,Boston,$138.00
+55,14,0.0,"12:36 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,6:25 PM,Philadelphia,6h 11m,Boston,$138.00
+56,15,0.0,3:34 PM,Amtrak Northeast Regional,11-03-2019,9:35 AM,Philadelphia,5h 59m,Boston,$138.00
+57,16,0.0,5:11 PM,Amtrak Acela,11-03-2019,11:55 AM,Philadelphia,5h 16m,Boston,$177.00
+58,17,0.0,2:47 PM,Amtrak Northeast Regional,11-03-2019,8:40 AM,Philadelphia,6h 7m,Boston,$138.00
+59,18,0.0,11:33 PM,Amtrak Northeast Regional,11-03-2019,5:25 PM,Philadelphia,6h 8m,Boston,$138.00
+60,19,0.0,6:34 PM,Amtrak Northeast Regional,11-03-2019,12:16 PM,Philadelphia,6h 18m,Boston,$138.00
+61,20,0.0,6:13 PM,Amtrak Acela,11-03-2019,12:55 PM,Philadelphia,5h 18m,Boston,$177.00
+62,21,0.0,12:31 PM,Amtrak Northeast Regional,11-03-2019,6:35 AM,Philadelphia,5h 56m,Boston,$138.00
+63,22,0.0,9:36 PM,Amtrak Northeast Regional,11-03-2019,3:05 PM,Philadelphia,6h 31m,Boston,$138.00
+64,23,0.0,7:31 PM,Amtrak Northeast Regional,11-03-2019,1:15 PM,Philadelphia,6h 16m,Boston,$138.00
+65,24,0.0,8:12 PM,Amtrak Acela,11-03-2019,3:00 PM,Philadelphia,5h 12m,Boston,$177.00
+66,25,0.0,"12:36 AM+1Arrives Mon, Nov 4, 2019",Amtrak Northeast Regional,11-03-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+67,26,0.0,11:33 PM,Amtrak Northeast Regional,11-03-2019,5:30 PM,Philadelphia,6h 3m,Boston,$138.00
+68,27,0.0,9:36 PM,Amtrak Northeast Regional,11-03-2019,3:11 PM,Philadelphia,6h 25m,Boston,$138.00
+69,28,0.0,8:12 PM,Amtrak Acela,11-03-2019,3:06 PM,Philadelphia,5h 6m,Boston,$177.00
+70,29,0.0,10:09 PM,Amtrak Acela,11-03-2019,4:56 PM,Philadelphia,5h 13m,Boston,$177.00
+71,30,0.0,5:11 PM,Amtrak Acela,11-03-2019,12:00 PM,Philadelphia,5h 11m,Boston,$177.00
+72,31,0.0,6:13 PM,Amtrak Acela,11-03-2019,1:01 PM,Philadelphia,5h 12m,Boston,$177.00
+73,32,0.0,10:09 PM,Amtrak Acela,11-03-2019,4:50 PM,Philadelphia,5h 19m,Boston,$177.00
+74,33,0.0,4:12 PM,Amtrak Acela,11-03-2019,11:00 AM,Philadelphia,5h 12m,Boston,$208.00
+75,34,0.0,4:12 PM,Amtrak Acela,11-03-2019,11:05 AM,Philadelphia,5h 7m,Boston,$208.00
+76,0,0.0,"6:50 AM+1Arrives Fri, Oct 18, 2019",Megabus,10-17-2019,11:50 PM,Boston,7h 0m,Philadelphia,$34.99
+77,1,0.0,10:45 PM,BoltBus,10-17-2019,4:15 PM,Boston,6h 30m,Philadelphia,$25.00
+78,2,0.0,2:20 PM,Greyhound,10-17-2019,7:15 AM,Boston,7h 5m,Philadelphia,$31.00
+79,3,0.0,4:41 PM,Amtrak Northeast Regional,10-17-2019,10:40 AM,Boston,6h 1m,Philadelphia,$106.00
+80,4,0.0,11:32 AM,Amtrak Northeast Regional,10-17-2019,5:14 AM,Boston,6h 18m,Philadelphia,$106.00
+81,5,0.0,11:22 AM,Amtrak Northeast Regional,10-17-2019,5:14 AM,Boston,6h 8m,Philadelphia,$106.00
+82,6,0.0,9:54 PM,Amtrak Acela,10-17-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+83,7,0.0,4:51 PM,Amtrak Northeast Regional,10-17-2019,10:40 AM,Boston,6h 11m,Philadelphia,$106.00
+84,8,0.0,12:52 PM,Amtrak Northeast Regional,10-17-2019,6:54 AM,Boston,5h 58m,Philadelphia,$138.00
+85,9,0.0,1:08 PM,Amtrak Northeast Regional,10-17-2019,6:54 AM,Boston,6h 14m,Philadelphia,$138.00
+86,10,0.0,9:42 PM,Amtrak Acela,10-17-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+87,11,0.0,12:52 PM,Amtrak Northeast Regional,10-17-2019,6:46 AM,Boston,6h 6m,Philadelphia,$138.00
+88,12,0.0,1:08 PM,Amtrak Northeast Regional,10-17-2019,6:46 AM,Boston,6h 22m,Philadelphia,$138.00
+89,13,0.0,3:24 PM,Amtrak Northeast Regional,10-17-2019,9:20 AM,Boston,6h 4m,Philadelphia,$138.00
+90,14,0.0,3:32 PM,Amtrak Northeast Regional,10-17-2019,9:20 AM,Boston,6h 12m,Philadelphia,$138.00
+91,15,0.0,"12:32 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,5:59 PM,Boston,6h 33m,Philadelphia,$173.00
+92,16,0.0,"12:23 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,5:59 PM,Boston,6h 24m,Philadelphia,$173.00
+93,17,0.0,5:04 PM,Amtrak Acela,10-17-2019,11:38 AM,Boston,5h 26m,Philadelphia,$208.00
+94,18,0.0,6:25 PM,Amtrak Northeast Regional,10-17-2019,12:05 PM,Boston,6h 20m,Philadelphia,$173.00
+95,19,0.0,"7:58 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+96,20,0.0,6:36 PM,Amtrak Northeast Regional,10-17-2019,12:05 PM,Boston,6h 31m,Philadelphia,$173.00
+97,21,0.0,2:03 PM,Amtrak Acela,10-17-2019,8:38 AM,Boston,5h 25m,Philadelphia,$239.00
+98,22,0.0,10:20 PM,Amtrak Northeast Regional,10-17-2019,3:59 PM,Boston,6h 21m,Philadelphia,$208.00
+99,23,0.0,10:09 PM,Amtrak Northeast Regional,10-17-2019,3:59 PM,Boston,6h 10m,Philadelphia,$208.00
+100,24,0.0,"7:53 AM+1Arrives Fri, Oct 18, 2019",Amtrak Northeast Regional,10-17-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+101,25,0.0,4:52 PM,Amtrak Acela,10-17-2019,11:38 AM,Boston,5h 14m,Philadelphia,$208.00
+102,26,0.0,8:14 PM,Amtrak Northeast Regional,10-17-2019,1:58 PM,Boston,6h 16m,Philadelphia,$208.00
+103,27,0.0,8:25 PM,Amtrak Northeast Regional,10-17-2019,1:58 PM,Boston,6h 27m,Philadelphia,$208.00
+104,28,0.0,1:55 PM,Amtrak Acela,10-17-2019,8:38 AM,Boston,5h 17m,Philadelphia,$239.00
+105,29,0.0,4:03 PM,Amtrak Acela,10-17-2019,10:38 AM,Boston,5h 25m,Philadelphia,$239.00
+106,30,0.0,3:52 PM,Amtrak Acela,10-17-2019,10:38 AM,Boston,5h 14m,Philadelphia,$239.00
+107,31,0.0,11:55 AM,Amtrak Acela,10-17-2019,6:34 AM,Boston,5h 21m,Philadelphia,$305.00
+108,32,0.0,11:44 AM,Amtrak Acela,10-17-2019,6:34 AM,Boston,5h 10m,Philadelphia,$305.00
+109,33,0.0,6:39 PM,Amtrak Acela,10-17-2019,1:32 PM,Boston,5h 7m,Philadelphia,$260.00
+110,34,0.0,7:43 PM,Amtrak Acela,10-17-2019,2:32 PM,Boston,5h 11m,Philadelphia,$260.00
+111,35,0.0,6:46 PM,Amtrak Acela,10-17-2019,1:32 PM,Boston,5h 14m,Philadelphia,$260.00
+112,36,0.0,7:54 PM,Amtrak Acela,10-17-2019,2:32 PM,Boston,5h 22m,Philadelphia,$260.00
+113,37,0.0,8:47 PM,Amtrak Acela,10-17-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+114,38,0.0,8:55 PM,Amtrak Acela,10-17-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+115,39,0.0,11:00 PM,Amtrak Acela,10-17-2019,5:35 PM,Boston,5h 25m,Philadelphia,$455.00
+116,40,0.0,10:49 PM,Amtrak Acela,10-17-2019,5:35 PM,Boston,5h 14m,Philadelphia,$455.00
+117,0,0.0,"6:50 AM+1Arrives Fri, Nov 1, 2019",Megabus,10-31-2019,11:50 PM,Boston,7h 0m,Philadelphia,$19.99
+118,1,0.0,2:20 PM,Greyhound,10-31-2019,7:15 AM,Boston,7h 5m,Philadelphia,$21.00
+119,2,0.0,10:45 PM,BoltBus,10-31-2019,4:15 PM,Boston,6h 30m,Philadelphia,$24.00
+120,3,0.0,12:52 PM,Amtrak Northeast Regional,10-31-2019,6:54 AM,Boston,5h 58m,Philadelphia,$83.00
+121,4,0.0,4:41 PM,Amtrak Northeast Regional,10-31-2019,10:40 AM,Boston,6h 1m,Philadelphia,$85.00
+122,5,0.0,4:51 PM,Amtrak Northeast Regional,10-31-2019,10:40 AM,Boston,6h 11m,Philadelphia,$85.00
+123,6,0.0,11:00 PM,Amtrak Acela,10-31-2019,5:35 PM,Boston,5h 25m,Philadelphia,$239.00
+124,7,0.0,3:24 PM,Amtrak Northeast Regional,10-31-2019,9:20 AM,Boston,6h 4m,Philadelphia,$85.00
+125,8,0.0,3:32 PM,Amtrak Northeast Regional,10-31-2019,9:20 AM,Boston,6h 12m,Philadelphia,$85.00
+126,9,0.0,1:08 PM,Amtrak Northeast Regional,10-31-2019,6:54 AM,Boston,6h 14m,Philadelphia,$85.00
+127,10,0.0,5:04 PM,Amtrak Acela,10-31-2019,11:38 AM,Boston,5h 26m,Philadelphia,$177.00
+128,11,0.0,11:32 AM,Amtrak Northeast Regional,10-31-2019,5:14 AM,Boston,6h 18m,Philadelphia,$85.00
+129,12,0.0,1:08 PM,Amtrak Northeast Regional,10-31-2019,6:46 AM,Boston,6h 22m,Philadelphia,$85.00
+130,13,0.0,6:36 PM,Amtrak Northeast Regional,10-31-2019,12:05 PM,Boston,6h 31m,Philadelphia,$85.00
+131,14,0.0,4:03 PM,Amtrak Acela,10-31-2019,10:38 AM,Boston,5h 25m,Philadelphia,$177.00
+132,15,0.0,12:52 PM,Amtrak Northeast Regional,10-31-2019,6:46 AM,Boston,6h 6m,Philadelphia,$85.00
+133,16,0.0,11:22 AM,Amtrak Northeast Regional,10-31-2019,5:14 AM,Boston,6h 8m,Philadelphia,$85.00
+134,17,0.0,6:25 PM,Amtrak Northeast Regional,10-31-2019,12:05 PM,Boston,6h 20m,Philadelphia,$85.00
+135,18,0.0,4:52 PM,Amtrak Acela,10-31-2019,11:38 AM,Boston,5h 14m,Philadelphia,$177.00
+136,19,0.0,8:14 PM,Amtrak Northeast Regional,10-31-2019,1:58 PM,Boston,6h 16m,Philadelphia,$106.00
+137,20,0.0,8:25 PM,Amtrak Northeast Regional,10-31-2019,1:58 PM,Boston,6h 27m,Philadelphia,$106.00
+138,21,0.0,"12:32 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,5:59 PM,Boston,6h 33m,Philadelphia,$106.00
+139,22,0.0,10:49 PM,Amtrak Acela,10-31-2019,5:35 PM,Boston,5h 14m,Philadelphia,$208.00
+140,23,0.0,10:20 PM,Amtrak Northeast Regional,10-31-2019,3:59 PM,Boston,6h 21m,Philadelphia,$106.00
+141,24,0.0,10:09 PM,Amtrak Northeast Regional,10-31-2019,3:59 PM,Boston,6h 10m,Philadelphia,$106.00
+142,25,0.0,"12:23 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,5:59 PM,Boston,6h 24m,Philadelphia,$106.00
+143,26,0.0,2:03 PM,Amtrak Acela,10-31-2019,8:38 AM,Boston,5h 25m,Philadelphia,$208.00
+144,27,0.0,"7:58 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+145,28,0.0,"7:53 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+146,29,0.0,3:52 PM,Amtrak Acela,10-31-2019,10:38 AM,Boston,5h 14m,Philadelphia,$177.00
+147,30,0.0,11:55 AM,Amtrak Acela,10-31-2019,6:34 AM,Boston,5h 21m,Philadelphia,$208.00
+148,31,0.0,1:55 PM,Amtrak Acela,10-31-2019,8:38 AM,Boston,5h 17m,Philadelphia,$208.00
+149,32,0.0,11:44 AM,Amtrak Acela,10-31-2019,6:34 AM,Boston,5h 10m,Philadelphia,$208.00
+150,33,0.0,9:54 PM,Amtrak Acela,10-31-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+151,34,0.0,9:42 PM,Amtrak Acela,10-31-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+152,35,0.0,8:55 PM,Amtrak Acela,10-31-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+153,36,0.0,7:54 PM,Amtrak Acela,10-31-2019,2:32 PM,Boston,5h 22m,Philadelphia,$305.00
+154,37,0.0,6:46 PM,Amtrak Acela,10-31-2019,1:32 PM,Boston,5h 14m,Philadelphia,$305.00
+155,38,0.0,6:39 PM,Amtrak Acela,10-31-2019,1:32 PM,Boston,5h 7m,Philadelphia,$305.00
+156,39,0.0,7:43 PM,Amtrak Acela,10-31-2019,2:32 PM,Boston,5h 11m,Philadelphia,$305.00
+157,40,0.0,8:47 PM,Amtrak Acela,10-31-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+158,0,0.0,5:20 PM,BoltBus,10-27-2019,10:15 AM,Philadelphia,7h 5m,Boston,$33.00
+159,1,0.0,"6:45 AM+1Arrives Mon, Oct 28, 2019",Megabus,10-27-2019,11:45 PM,Philadelphia,7h 0m,Boston,$39.99
+160,2,0.0,5:00 PM,Greyhound,10-27-2019,10:15 AM,Philadelphia,6h 45m,Boston,$29.00
+161,3,0.0,5:30 PM,Peter Pan Lines,10-27-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+162,4,0.0,"4:52 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,9:30 PM,Philadelphia,7h 22m,Boston,$95.00
+163,5,0.0,8:50 PM,BoltBus,10-27-2019,2:15 PM,Philadelphia,6h 35m,Boston,$33.00
+164,6,0.0,"2:15 AM+1Arrives Mon, Oct 28, 2019",Greyhound,10-27-2019,7:00 PM,Philadelphia,7h 15m,Boston,$31.00
+165,7,0.0,"4:52 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,9:36 PM,Philadelphia,7h 16m,Boston,$95.00
+166,8,0.0,12:31 PM,Amtrak Northeast Regional,10-27-2019,6:30 AM,Philadelphia,6h 1m,Boston,$138.00
+167,9,0.0,10:09 PM,Amtrak Acela,10-27-2019,4:50 PM,Philadelphia,5h 19m,Boston,$208.00
+168,10,0.0,2:47 PM,Amtrak Northeast Regional,10-27-2019,8:35 AM,Philadelphia,6h 12m,Boston,$138.00
+169,11,0.0,11:33 PM,Amtrak Northeast Regional,10-27-2019,5:30 PM,Philadelphia,6h 3m,Boston,$138.00
+170,12,0.0,12:31 PM,Amtrak Northeast Regional,10-27-2019,6:35 AM,Philadelphia,5h 56m,Boston,$138.00
+171,13,0.0,9:12 PM,Amtrak Acela,10-27-2019,4:00 PM,Philadelphia,5h 12m,Boston,$208.00
+172,14,0.0,11:33 PM,Amtrak Northeast Regional,10-27-2019,5:25 PM,Philadelphia,6h 8m,Boston,$138.00
+173,15,0.0,"12:36 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,6:25 PM,Philadelphia,6h 11m,Boston,$138.00
+174,16,0.0,9:36 PM,Amtrak Northeast Regional,10-27-2019,3:05 PM,Philadelphia,6h 31m,Boston,$138.00
+175,17,0.0,10:09 PM,Amtrak Acela,10-27-2019,4:56 PM,Philadelphia,5h 13m,Boston,$208.00
+176,18,0.0,"12:36 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+177,19,0.0,7:31 PM,Amtrak Northeast Regional,10-27-2019,1:10 PM,Philadelphia,6h 21m,Boston,$173.00
+178,20,0.0,2:47 PM,Amtrak Northeast Regional,10-27-2019,8:40 AM,Philadelphia,6h 7m,Boston,$173.00
+179,21,0.0,5:11 PM,Amtrak Acela,10-27-2019,11:55 AM,Philadelphia,5h 16m,Boston,$208.00
+180,22,0.0,6:34 PM,Amtrak Northeast Regional,10-27-2019,12:10 PM,Philadelphia,6h 24m,Boston,$173.00
+181,23,0.0,3:34 PM,Amtrak Northeast Regional,10-27-2019,9:30 AM,Philadelphia,6h 4m,Boston,$208.00
+182,24,0.0,9:36 PM,Amtrak Northeast Regional,10-27-2019,3:11 PM,Philadelphia,6h 25m,Boston,$173.00
+183,25,0.0,9:12 PM,Amtrak Acela,10-27-2019,4:05 PM,Philadelphia,5h 7m,Boston,$208.00
+184,26,0.0,3:34 PM,Amtrak Northeast Regional,10-27-2019,9:35 AM,Philadelphia,5h 59m,Boston,$208.00
+185,27,0.0,7:31 PM,Amtrak Northeast Regional,10-27-2019,1:15 PM,Philadelphia,6h 16m,Boston,$208.00
+186,28,0.0,6:34 PM,Amtrak Northeast Regional,10-27-2019,12:16 PM,Philadelphia,6h 18m,Boston,$208.00
+187,29,0.0,8:12 PM,Amtrak Acela,10-27-2019,3:00 PM,Philadelphia,5h 12m,Boston,$208.00
+188,30,0.0,5:11 PM,Amtrak Acela,10-27-2019,12:00 PM,Philadelphia,5h 11m,Boston,$208.00
+189,31,0.0,8:12 PM,Amtrak Acela,10-27-2019,3:06 PM,Philadelphia,5h 6m,Boston,$208.00
+190,32,0.0,4:12 PM,Amtrak Acela,10-27-2019,11:00 AM,Philadelphia,5h 12m,Boston,$260.00
+191,33,0.0,6:13 PM,Amtrak Acela,10-27-2019,12:55 PM,Philadelphia,5h 18m,Boston,$260.00
+192,34,0.0,4:12 PM,Amtrak Acela,10-27-2019,11:05 AM,Philadelphia,5h 7m,Boston,$260.00
+193,35,0.0,6:13 PM,Amtrak Acela,10-27-2019,1:01 PM,Philadelphia,5h 12m,Boston,$260.00
+194,0,0.0,"6:45 AM+1Arrives Mon, Oct 21, 2019",Megabus,10-20-2019,11:45 PM,Philadelphia,7h 0m,Boston,$39.99
+195,1,0.0,5:30 PM,Peter Pan Lines,10-20-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+196,2,0.0,5:00 PM,Greyhound,10-20-2019,10:15 AM,Philadelphia,6h 45m,Boston,$31.00
+197,3,0.0,5:20 PM,BoltBus,10-20-2019,10:15 AM,Philadelphia,7h 5m,Boston,$39.00
+198,4,0.0,"4:52 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,9:30 PM,Philadelphia,7h 22m,Boston,$106.00
+199,5,0.0,8:50 PM,BoltBus,10-20-2019,2:15 PM,Philadelphia,6h 35m,Boston,$39.00
+200,6,0.0,"2:15 AM+1Arrives Mon, Oct 21, 2019",Greyhound,10-20-2019,7:00 PM,Philadelphia,7h 15m,Boston,$34.00
+201,7,0.0,"4:52 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,9:36 PM,Philadelphia,7h 16m,Boston,$106.00
+202,8,0.0,"12:36 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+203,9,0.0,10:09 PM,Amtrak Acela,10-20-2019,4:50 PM,Philadelphia,5h 19m,Boston,$305.00
+204,10,0.0,11:33 PM,Amtrak Northeast Regional,10-20-2019,5:25 PM,Philadelphia,6h 8m,Boston,$208.00
+205,11,0.0,11:33 PM,Amtrak Northeast Regional,10-20-2019,5:30 PM,Philadelphia,6h 3m,Boston,$173.00
+206,12,0.0,"12:36 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,6:25 PM,Philadelphia,6h 11m,Boston,$208.00
+207,13,0.0,12:31 PM,Amtrak Northeast Regional,10-20-2019,6:30 AM,Philadelphia,6h 1m,Boston,$208.00
+208,14,0.0,12:31 PM,Amtrak Northeast Regional,10-20-2019,6:35 AM,Philadelphia,5h 56m,Boston,$173.00
+209,15,0.0,3:34 PM,Amtrak Northeast Regional,10-20-2019,9:30 AM,Philadelphia,6h 4m,Boston,$208.00
+210,16,0.0,4:12 PM,Amtrak Acela,10-20-2019,11:00 AM,Philadelphia,5h 12m,Boston,$305.00
+211,17,0.0,2:47 PM,Amtrak Northeast Regional,10-20-2019,8:35 AM,Philadelphia,6h 12m,Boston,$208.00
+212,18,0.0,7:31 PM,Amtrak Northeast Regional,10-20-2019,1:10 PM,Philadelphia,6h 21m,Boston,$208.00
+213,19,0.0,9:36 PM,Amtrak Northeast Regional,10-20-2019,3:05 PM,Philadelphia,6h 31m,Boston,$208.00
+214,20,0.0,10:09 PM,Amtrak Acela,10-20-2019,4:56 PM,Philadelphia,5h 13m,Boston,$305.00
+215,21,0.0,6:34 PM,Amtrak Northeast Regional,10-20-2019,12:10 PM,Philadelphia,6h 24m,Boston,$208.00
+216,22,0.0,3:34 PM,Amtrak Northeast Regional,10-20-2019,9:35 AM,Philadelphia,5h 59m,Boston,$208.00
+217,23,0.0,2:47 PM,Amtrak Northeast Regional,10-20-2019,8:40 AM,Philadelphia,6h 7m,Boston,$208.00
+218,24,0.0,5:11 PM,Amtrak Acela,10-20-2019,11:55 AM,Philadelphia,5h 16m,Boston,$305.00
+219,25,0.0,7:31 PM,Amtrak Northeast Regional,10-20-2019,1:15 PM,Philadelphia,6h 16m,Boston,$208.00
+220,26,0.0,6:34 PM,Amtrak Northeast Regional,10-20-2019,12:16 PM,Philadelphia,6h 18m,Boston,$208.00
+221,27,0.0,9:36 PM,Amtrak Northeast Regional,10-20-2019,3:11 PM,Philadelphia,6h 25m,Boston,$208.00
+222,28,0.0,8:12 PM,Amtrak Acela,10-20-2019,3:00 PM,Philadelphia,5h 12m,Boston,$305.00
+223,29,0.0,9:12 PM,Amtrak Acela,10-20-2019,4:00 PM,Philadelphia,5h 12m,Boston,$305.00
+224,30,0.0,6:13 PM,Amtrak Acela,10-20-2019,12:55 PM,Philadelphia,5h 18m,Boston,$305.00
+225,31,0.0,5:11 PM,Amtrak Acela,10-20-2019,12:00 PM,Philadelphia,5h 11m,Boston,$305.00
+226,32,0.0,4:12 PM,Amtrak Acela,10-20-2019,11:05 AM,Philadelphia,5h 7m,Boston,$305.00
+227,33,0.0,8:12 PM,Amtrak Acela,10-20-2019,3:06 PM,Philadelphia,5h 6m,Boston,$305.00
+228,34,0.0,9:12 PM,Amtrak Acela,10-20-2019,4:05 PM,Philadelphia,5h 7m,Boston,$305.00
+229,35,0.0,6:13 PM,Amtrak Acela,10-20-2019,1:01 PM,Philadelphia,5h 12m,Boston,$305.00
+0,0,,"6:50 AM+1Arrives Fri, Nov 1, 2019",Megabus,10-31-2019,11:50 PM,Boston,7h 0m,Philadelphia,$19.99
+1,0,,2:20 PM,Greyhound,10-31-2019,7:15 AM,Boston,7h 5m,Philadelphia,$21.00
+2,0,,10:45 PM,BoltBus,10-31-2019,4:15 PM,Boston,6h 30m,Philadelphia,$24.00
+3,0,,12:52 PM,Amtrak Northeast Regional,10-31-2019,6:54 AM,Boston,5h 58m,Philadelphia,$83.00
+4,0,,4:41 PM,Amtrak Northeast Regional,10-31-2019,10:40 AM,Boston,6h 1m,Philadelphia,$85.00
+5,0,,4:51 PM,Amtrak Northeast Regional,10-31-2019,10:40 AM,Boston,6h 11m,Philadelphia,$85.00
+6,0,,11:00 PM,Amtrak Acela,10-31-2019,5:35 PM,Boston,5h 25m,Philadelphia,$239.00
+7,0,,3:24 PM,Amtrak Northeast Regional,10-31-2019,9:20 AM,Boston,6h 4m,Philadelphia,$85.00
+8,0,,3:32 PM,Amtrak Northeast Regional,10-31-2019,9:20 AM,Boston,6h 12m,Philadelphia,$85.00
+9,0,,1:08 PM,Amtrak Northeast Regional,10-31-2019,6:54 AM,Boston,6h 14m,Philadelphia,$85.00
+10,0,,5:04 PM,Amtrak Acela,10-31-2019,11:38 AM,Boston,5h 26m,Philadelphia,$177.00
+11,0,,11:32 AM,Amtrak Northeast Regional,10-31-2019,5:14 AM,Boston,6h 18m,Philadelphia,$85.00
+12,0,,1:08 PM,Amtrak Northeast Regional,10-31-2019,6:46 AM,Boston,6h 22m,Philadelphia,$85.00
+13,0,,6:36 PM,Amtrak Northeast Regional,10-31-2019,12:05 PM,Boston,6h 31m,Philadelphia,$85.00
+14,0,,4:03 PM,Amtrak Acela,10-31-2019,10:38 AM,Boston,5h 25m,Philadelphia,$177.00
+15,0,,12:52 PM,Amtrak Northeast Regional,10-31-2019,6:46 AM,Boston,6h 6m,Philadelphia,$85.00
+16,0,,11:22 AM,Amtrak Northeast Regional,10-31-2019,5:14 AM,Boston,6h 8m,Philadelphia,$85.00
+17,0,,6:25 PM,Amtrak Northeast Regional,10-31-2019,12:05 PM,Boston,6h 20m,Philadelphia,$85.00
+18,0,,4:52 PM,Amtrak Acela,10-31-2019,11:38 AM,Boston,5h 14m,Philadelphia,$177.00
+19,0,,8:14 PM,Amtrak Northeast Regional,10-31-2019,1:58 PM,Boston,6h 16m,Philadelphia,$106.00
+20,0,,8:25 PM,Amtrak Northeast Regional,10-31-2019,1:58 PM,Boston,6h 27m,Philadelphia,$106.00
+21,0,,"12:32 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,5:59 PM,Boston,6h 33m,Philadelphia,$106.00
+22,0,,10:49 PM,Amtrak Acela,10-31-2019,5:35 PM,Boston,5h 14m,Philadelphia,$208.00
+23,0,,10:20 PM,Amtrak Northeast Regional,10-31-2019,3:59 PM,Boston,6h 21m,Philadelphia,$106.00
+24,0,,10:09 PM,Amtrak Northeast Regional,10-31-2019,3:59 PM,Boston,6h 10m,Philadelphia,$106.00
+25,0,,"12:23 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,5:59 PM,Boston,6h 24m,Philadelphia,$106.00
+26,0,,2:03 PM,Amtrak Acela,10-31-2019,8:38 AM,Boston,5h 25m,Philadelphia,$208.00
+27,0,,"7:58 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,11:44 PM,Boston,8h 14m,Philadelphia,$173.00
+28,0,,"7:53 AM+1Arrives Fri, Nov 1, 2019",Amtrak Northeast Regional,10-31-2019,11:44 PM,Boston,8h 9m,Philadelphia,$173.00
+29,0,,3:52 PM,Amtrak Acela,10-31-2019,10:38 AM,Boston,5h 14m,Philadelphia,$177.00
+30,0,,11:55 AM,Amtrak Acela,10-31-2019,6:34 AM,Boston,5h 21m,Philadelphia,$208.00
+31,0,,1:55 PM,Amtrak Acela,10-31-2019,8:38 AM,Boston,5h 17m,Philadelphia,$208.00
+32,0,,11:44 AM,Amtrak Acela,10-31-2019,6:34 AM,Boston,5h 10m,Philadelphia,$208.00
+33,0,,9:54 PM,Amtrak Acela,10-31-2019,4:36 PM,Boston,5h 18m,Philadelphia,$305.00
+34,0,,9:42 PM,Amtrak Acela,10-31-2019,4:36 PM,Boston,5h 6m,Philadelphia,$305.00
+35,0,,8:55 PM,Amtrak Acela,10-31-2019,3:33 PM,Boston,5h 22m,Philadelphia,$305.00
+36,0,,7:54 PM,Amtrak Acela,10-31-2019,2:32 PM,Boston,5h 22m,Philadelphia,$305.00
+37,0,,6:46 PM,Amtrak Acela,10-31-2019,1:32 PM,Boston,5h 14m,Philadelphia,$305.00
+38,0,,6:39 PM,Amtrak Acela,10-31-2019,1:32 PM,Boston,5h 7m,Philadelphia,$305.00
+39,0,,7:43 PM,Amtrak Acela,10-31-2019,2:32 PM,Boston,5h 11m,Philadelphia,$305.00
+40,0,,8:47 PM,Amtrak Acela,10-31-2019,3:33 PM,Boston,5h 14m,Philadelphia,$305.00
+0,0,,5:20 PM,BoltBus,10-27-2019,10:15 AM,Philadelphia,7h 5m,Boston,$33.00
+1,0,,"6:45 AM+1Arrives Mon, Oct 28, 2019",Megabus,10-27-2019,11:45 PM,Philadelphia,7h 0m,Boston,$39.99
+2,0,,5:00 PM,Greyhound,10-27-2019,10:15 AM,Philadelphia,6h 45m,Boston,$29.00
+3,0,,5:30 PM,Peter Pan Lines,10-27-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+4,0,,"4:52 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,9:30 PM,Philadelphia,7h 22m,Boston,$95.00
+5,0,,8:50 PM,BoltBus,10-27-2019,2:15 PM,Philadelphia,6h 35m,Boston,$33.00
+6,0,,"2:15 AM+1Arrives Mon, Oct 28, 2019",Greyhound,10-27-2019,7:00 PM,Philadelphia,7h 15m,Boston,$31.00
+7,0,,"4:52 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,9:36 PM,Philadelphia,7h 16m,Boston,$95.00
+8,0,,12:31 PM,Amtrak Northeast Regional,10-27-2019,6:30 AM,Philadelphia,6h 1m,Boston,$138.00
+9,0,,10:09 PM,Amtrak Acela,10-27-2019,4:50 PM,Philadelphia,5h 19m,Boston,$208.00
+10,0,,2:47 PM,Amtrak Northeast Regional,10-27-2019,8:35 AM,Philadelphia,6h 12m,Boston,$138.00
+11,0,,11:33 PM,Amtrak Northeast Regional,10-27-2019,5:30 PM,Philadelphia,6h 3m,Boston,$138.00
+12,0,,12:31 PM,Amtrak Northeast Regional,10-27-2019,6:35 AM,Philadelphia,5h 56m,Boston,$138.00
+13,0,,9:12 PM,Amtrak Acela,10-27-2019,4:00 PM,Philadelphia,5h 12m,Boston,$208.00
+14,0,,11:33 PM,Amtrak Northeast Regional,10-27-2019,5:25 PM,Philadelphia,6h 8m,Boston,$138.00
+15,0,,"12:36 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,6:25 PM,Philadelphia,6h 11m,Boston,$138.00
+16,0,,9:36 PM,Amtrak Northeast Regional,10-27-2019,3:05 PM,Philadelphia,6h 31m,Boston,$138.00
+17,0,,10:09 PM,Amtrak Acela,10-27-2019,4:56 PM,Philadelphia,5h 13m,Boston,$208.00
+18,0,,"12:36 AM+1Arrives Mon, Oct 28, 2019",Amtrak Northeast Regional,10-27-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+19,0,,7:31 PM,Amtrak Northeast Regional,10-27-2019,1:10 PM,Philadelphia,6h 21m,Boston,$173.00
+20,0,,2:47 PM,Amtrak Northeast Regional,10-27-2019,8:40 AM,Philadelphia,6h 7m,Boston,$173.00
+21,0,,5:11 PM,Amtrak Acela,10-27-2019,11:55 AM,Philadelphia,5h 16m,Boston,$208.00
+22,0,,6:34 PM,Amtrak Northeast Regional,10-27-2019,12:10 PM,Philadelphia,6h 24m,Boston,$173.00
+23,0,,3:34 PM,Amtrak Northeast Regional,10-27-2019,9:30 AM,Philadelphia,6h 4m,Boston,$208.00
+24,0,,9:36 PM,Amtrak Northeast Regional,10-27-2019,3:11 PM,Philadelphia,6h 25m,Boston,$173.00
+25,0,,9:12 PM,Amtrak Acela,10-27-2019,4:05 PM,Philadelphia,5h 7m,Boston,$208.00
+26,0,,3:34 PM,Amtrak Northeast Regional,10-27-2019,9:35 AM,Philadelphia,5h 59m,Boston,$208.00
+27,0,,7:31 PM,Amtrak Northeast Regional,10-27-2019,1:15 PM,Philadelphia,6h 16m,Boston,$208.00
+28,0,,6:34 PM,Amtrak Northeast Regional,10-27-2019,12:16 PM,Philadelphia,6h 18m,Boston,$208.00
+29,0,,8:12 PM,Amtrak Acela,10-27-2019,3:00 PM,Philadelphia,5h 12m,Boston,$208.00
+30,0,,5:11 PM,Amtrak Acela,10-27-2019,12:00 PM,Philadelphia,5h 11m,Boston,$208.00
+31,0,,8:12 PM,Amtrak Acela,10-27-2019,3:06 PM,Philadelphia,5h 6m,Boston,$208.00
+32,0,,4:12 PM,Amtrak Acela,10-27-2019,11:00 AM,Philadelphia,5h 12m,Boston,$260.00
+33,0,,6:13 PM,Amtrak Acela,10-27-2019,12:55 PM,Philadelphia,5h 18m,Boston,$260.00
+34,0,,4:12 PM,Amtrak Acela,10-27-2019,11:05 AM,Philadelphia,5h 7m,Boston,$260.00
+35,0,,6:13 PM,Amtrak Acela,10-27-2019,1:01 PM,Philadelphia,5h 12m,Boston,$260.00
+0,0,,"6:45 AM+1Arrives Mon, Oct 21, 2019",Megabus,10-20-2019,11:45 PM,Philadelphia,7h 0m,Boston,$39.99
+1,0,,5:30 PM,Peter Pan Lines,10-20-2019,11:30 AM,Philadelphia,6h 0m,Boston,$33.00
+2,0,,5:00 PM,Greyhound,10-20-2019,10:15 AM,Philadelphia,6h 45m,Boston,$31.00
+3,0,,5:20 PM,BoltBus,10-20-2019,10:15 AM,Philadelphia,7h 5m,Boston,$39.00
+4,0,,"4:52 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,9:30 PM,Philadelphia,7h 22m,Boston,$106.00
+5,0,,8:50 PM,BoltBus,10-20-2019,2:15 PM,Philadelphia,6h 35m,Boston,$39.00
+6,0,,"2:15 AM+1Arrives Mon, Oct 21, 2019",Greyhound,10-20-2019,7:00 PM,Philadelphia,7h 15m,Boston,$34.00
+7,0,,"4:52 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,9:36 PM,Philadelphia,7h 16m,Boston,$106.00
+8,0,,"12:36 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,6:30 PM,Philadelphia,6h 6m,Boston,$138.00
+9,0,,10:09 PM,Amtrak Acela,10-20-2019,4:50 PM,Philadelphia,5h 19m,Boston,$305.00
+10,0,,11:33 PM,Amtrak Northeast Regional,10-20-2019,5:25 PM,Philadelphia,6h 8m,Boston,$208.00
+11,0,,11:33 PM,Amtrak Northeast Regional,10-20-2019,5:30 PM,Philadelphia,6h 3m,Boston,$173.00
+12,0,,"12:36 AM+1Arrives Mon, Oct 21, 2019",Amtrak Northeast Regional,10-20-2019,6:25 PM,Philadelphia,6h 11m,Boston,$208.00
+13,0,,12:31 PM,Amtrak Northeast Regional,10-20-2019,6:30 AM,Philadelphia,6h 1m,Boston,$208.00
+14,0,,12:31 PM,Amtrak Northeast Regional,10-20-2019,6:35 AM,Philadelphia,5h 56m,Boston,$173.00
+15,0,,3:34 PM,Amtrak Northeast Regional,10-20-2019,9:30 AM,Philadelphia,6h 4m,Boston,$208.00
+16,0,,4:12 PM,Amtrak Acela,10-20-2019,11:00 AM,Philadelphia,5h 12m,Boston,$305.00
+17,0,,2:47 PM,Amtrak Northeast Regional,10-20-2019,8:35 AM,Philadelphia,6h 12m,Boston,$208.00
+18,0,,7:31 PM,Amtrak Northeast Regional,10-20-2019,1:10 PM,Philadelphia,6h 21m,Boston,$208.00
+19,0,,9:36 PM,Amtrak Northeast Regional,10-20-2019,3:05 PM,Philadelphia,6h 31m,Boston,$208.00
+20,0,,10:09 PM,Amtrak Acela,10-20-2019,4:56 PM,Philadelphia,5h 13m,Boston,$305.00
+21,0,,6:34 PM,Amtrak Northeast Regional,10-20-2019,12:10 PM,Philadelphia,6h 24m,Boston,$208.00
+22,0,,3:34 PM,Amtrak Northeast Regional,10-20-2019,9:35 AM,Philadelphia,5h 59m,Boston,$208.00
+23,0,,2:47 PM,Amtrak Northeast Regional,10-20-2019,8:40 AM,Philadelphia,6h 7m,Boston,$208.00
+24,0,,5:11 PM,Amtrak Acela,10-20-2019,11:55 AM,Philadelphia,5h 16m,Boston,$305.00
+25,0,,7:31 PM,Amtrak Northeast Regional,10-20-2019,1:15 PM,Philadelphia,6h 16m,Boston,$208.00
+26,0,,6:34 PM,Amtrak Northeast Regional,10-20-2019,12:16 PM,Philadelphia,6h 18m,Boston,$208.00
+27,0,,9:36 PM,Amtrak Northeast Regional,10-20-2019,3:11 PM,Philadelphia,6h 25m,Boston,$208.00
+28,0,,8:12 PM,Amtrak Acela,10-20-2019,3:00 PM,Philadelphia,5h 12m,Boston,$305.00
+29,0,,9:12 PM,Amtrak Acela,10-20-2019,4:00 PM,Philadelphia,5h 12m,Boston,$305.00
+30,0,,6:13 PM,Amtrak Acela,10-20-2019,12:55 PM,Philadelphia,5h 18m,Boston,$305.00
+31,0,,5:11 PM,Amtrak Acela,10-20-2019,12:00 PM,Philadelphia,5h 11m,Boston,$305.00
+32,0,,4:12 PM,Amtrak Acela,10-20-2019,11:05 AM,Philadelphia,5h 7m,Boston,$305.00
+33,0,,8:12 PM,Amtrak Acela,10-20-2019,3:06 PM,Philadelphia,5h 6m,Boston,$305.00
+34,0,,9:12 PM,Amtrak Acela,10-20-2019,4:05 PM,Philadelphia,5h 7m,Boston,$305.00
+35,0,,6:13 PM,Amtrak Acela,10-20-2019,1:01 PM,Philadelphia,5h 12m,Boston,$305.00

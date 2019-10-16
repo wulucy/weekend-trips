@@ -1,0 +1,207 @@
+,Unnamed: 0,Unnamed: 0.1,date,destination,duration,origination,price,time
+0,0,,11-03-2019,Philadelphia,13h 38m,DC,   $183   ,   9:04 PM   –   10:42 AM+1   
+1,0,,11-03-2019,Philadelphia,4h 58m,DC,      $196   ,   5:01 AM   –   9:59 AM   
+2,0,,11-03-2019,Philadelphia,4h 18m,DC,      $245   ,   7:15 PM   –   11:33 PM   
+3,0,,11-03-2019,Philadelphia,53m,DC,      $390   ,   7:13 PM   –   8:06 PM   
+4,0,,11-03-2019,Philadelphia,6h 32m,DC,      $236   ,   7:38 AM   –   2:10 PM   
+5,0,,11-03-2019,Philadelphia,4h 45m,DC,      $245   ,   6:30 AM   –   11:15 AM   
+6,0,,11-03-2019,Philadelphia,5h 3m,DC,      $245   ,   8:30 AM   –   1:33 PM   
+7,0,,11-03-2019,Philadelphia,4h 47m,DC,      $245   ,   11:45 AM   –   4:32 PM   
+8,0,,11-03-2019,Philadelphia,4h 47m,DC,      $245   ,   12:45 PM   –   5:32 PM   
+9,0,,11-03-2019,Philadelphia,5h 8m,DC,      $245   ,   4:20 PM   –   9:28 PM   
+10,0,,11-03-2019,Philadelphia,5h 12m,DC,      $245   ,   5:30 PM   –   10:42 PM   
+11,0,,11-03-2019,Philadelphia,5h 6m,DC,      $256   ,   7:38 AM   –   12:44 PM   
+12,0,,11-03-2019,Philadelphia,5h 5m,DC,      $256   ,   9:05 AM   –   2:10 PM   
+13,0,,11-03-2019,Philadelphia,3h 39m,DC,      $276   ,   9:05 AM   –   12:44 PM   
+14,0,,11-03-2019,Philadelphia,4h 51m,DC,      $277   ,   12:59 PM   –   5:50 PM   
+0,0,,10-17-2019,DC,56m,Philadelphia,      $390   ,   7:59 AM   –   8:55 AM   
+1,0,,10-17-2019,DC,53m,Philadelphia,      $390   ,   12:25 PM   –   1:18 PM   
+2,0,,10-17-2019,DC,51m,Philadelphia,      $390   ,   4:50 PM   –   5:41 PM   
+3,0,,10-17-2019,DC,56m,Philadelphia,      $390   ,   5:50 PM   –   6:46 PM   
+4,0,,10-17-2019,DC,56m,Philadelphia,      $390   ,   9:45 PM   –   10:41 PM   
+5,0,,10-17-2019,DC,8h 56m,Philadelphia,   $282   ,   8:48 AM   –   5:44 PM   
+6,0,,10-17-2019,DC,7h 20m,Philadelphia,      $344   ,   6:00 AM   –   1:20 PM   
+7,0,,10-17-2019,DC,11h 10m,Philadelphia,      $385   ,   5:09 AM   –   4:19 PM   
+8,0,,10-17-2019,DC,57m,Philadelphia,      $390   ,   1:20 PM   –   2:17 PM   
+9,0,,10-17-2019,DC,4h 1m,Philadelphia,      $395   ,   5:57 PM   –   9:58 PM   
+10,0,,10-17-2019,DC,55m,Philadelphia,      $408   ,   6:43 AM   –   7:38 AM   
+11,0,,10-17-2019,DC,1h 12m,Philadelphia,      $408   ,   5:46 PM   –   6:58 PM   
+12,0,,10-17-2019,DC,1h 5m,Philadelphia,      $408   ,   9:10 PM   –   10:15 PM   
+13,0,,10-17-2019,DC,3h 41m,Philadelphia,      $448   ,   7:00 AM   –   10:41 AM   
+14,0,,10-17-2019,DC,3h 42m,Philadelphia,      $499   ,   8:35 AM   –   12:17 PM   
+0,0,,10-24-2019,DC,8h 56m,Philadelphia,   $154   ,   8:48 AM   –   5:44 PM   
+1,0,,10-24-2019,DC,8h 1m,Philadelphia,   $177   ,   6:30 AM   –   2:31 PM   
+2,0,,10-24-2019,DC,3h 59m,Philadelphia,      $259   ,   8:38 AM   –   12:37 PM   
+3,0,,10-24-2019,DC,51m,Philadelphia,      $390   ,   4:50 PM   –   5:41 PM   
+4,0,,10-24-2019,DC,6h 14m,Philadelphia,   $211   ,   4:50 PM   –   11:04 PM   
+5,0,,10-24-2019,DC,8h 20m,Philadelphia,   $222   ,   8:00 AM   –   4:20 PM   
+6,0,,10-24-2019,DC,4h 15m,Philadelphia,      $259   ,   10:53 AM   –   3:08 PM   
+7,0,,10-24-2019,DC,3h 41m,Philadelphia,      $276   ,   7:00 AM   –   10:41 AM   
+8,0,,10-24-2019,DC,3h 52m,Philadelphia,      $276   ,   12:51 PM   –   4:43 PM   
+9,0,,10-24-2019,DC,4h 3m,Philadelphia,      $286   ,   9:34 AM   –   1:37 PM   
+10,0,,10-24-2019,DC,4h 5m,Philadelphia,      $286   ,   10:35 AM   –   2:40 PM   
+11,0,,10-24-2019,DC,4h 2m,Philadelphia,      $295   ,   3:58 PM   –   8:00 PM   
+12,0,,10-24-2019,DC,4h 1m,Philadelphia,      $295   ,   5:57 PM   –   9:58 PM   
+13,0,,10-24-2019,DC,56m,Philadelphia,      $390   ,   7:59 AM   –   8:55 AM   
+14,0,,10-24-2019,DC,53m,Philadelphia,      $390   ,   12:25 PM   –   1:18 PM   
+15,0,,10-24-2019,DC,57m,Philadelphia,      $390   ,   1:20 PM   –   2:17 PM   
+16,0,,10-24-2019,DC,56m,Philadelphia,      $390   ,   5:50 PM   –   6:46 PM   
+17,0,,10-24-2019,DC,56m,Philadelphia,      $390   ,   9:45 PM   –   10:41 PM   
+18,0,,10-24-2019,DC,3h 42m,Philadelphia,      $391   ,   8:35 AM   –   12:17 PM   
+19,0,,10-24-2019,DC,55m,Philadelphia,      $408   ,   6:43 AM   –   7:38 AM   
+20,0,,10-24-2019,DC,1h 12m,Philadelphia,      $408   ,   5:46 PM   –   6:58 PM   
+21,0,,10-24-2019,DC,1h 5m,Philadelphia,      $408   ,   9:10 PM   –   10:15 PM   
+0,0,,10-20-2019,Philadelphia,53m,DC,      $390   ,   9:21 AM   –   10:14 AM   
+1,0,,10-20-2019,Philadelphia,54m,DC,      $390   ,   2:53 PM   –   3:47 PM   
+2,0,,10-20-2019,Philadelphia,59m,DC,      $390   ,   6:10 PM   –   7:09 PM   
+3,0,,10-20-2019,Philadelphia,59m,DC,      $390   ,   7:11 PM   –   8:10 PM   
+4,0,,10-20-2019,Philadelphia,7h 14m,DC,      $338   ,   8:20 AM   –   3:34 PM   
+5,0,,10-20-2019,Philadelphia,4h 9m,DC,      $379   ,   8:02 AM   –   12:11 PM   
+6,0,,10-20-2019,Philadelphia,4h 18m,DC,      $395   ,   7:15 PM   –   11:33 PM   
+7,0,,10-20-2019,Philadelphia,1h 5m,DC,      $408   ,   8:00 AM   –   9:05 AM   
+8,0,,10-20-2019,Philadelphia,1h 12m,DC,      $408   ,   3:13 PM   –   4:25 PM   
+9,0,,10-20-2019,Philadelphia,1h 4m,DC,      $408   ,   7:10 PM   –   8:14 PM   
+10,0,,10-20-2019,Philadelphia,3h 58m,DC,      $448   ,   8:13 AM   –   12:11 PM   
+11,0,,10-20-2019,Philadelphia,3h 49m,DC,      $499   ,   8:10 PM   –   11:59 PM   
+0,0,,10-31-2019,DC,8h 56m,Philadelphia,   $122   ,   8:48 AM   –   5:44 PM   
+1,0,,10-31-2019,DC,8h 20m,Philadelphia,   $128   ,   8:00 AM   –   4:20 PM   
+2,0,,10-31-2019,DC,8h 36m,Philadelphia,   $171   ,   6:21 AM   –   2:57 PM   
+3,0,,10-31-2019,DC,3h 37m,Philadelphia,      $186   ,   9:34 AM   –   1:11 PM   
+4,0,,10-31-2019,DC,23h 53m,Philadelphia,   $134   ,   4:27 PM   –   4:20 PM+1   
+5,0,,10-31-2019,DC,8h 1m,Philadelphia,   $152   ,   6:30 AM   –   2:31 PM   
+6,0,,10-31-2019,DC,8h 19m,Philadelphia,   $166   ,   7:00 AM   –   3:19 PM   
+7,0,,10-31-2019,DC,3h 46m,Philadelphia,      $186   ,   10:34 AM   –   2:20 PM   
+8,0,,10-31-2019,DC,6h 14m,Philadelphia,   $196   ,   4:50 PM   –   11:04 PM   
+9,0,,10-31-2019,DC,3h 45m,Philadelphia,      $206   ,   10:34 AM   –   2:19 PM   
+10,0,,10-31-2019,DC,5h 35m,Philadelphia,      $206   ,   1:24 PM   –   6:59 PM   
+11,0,,10-31-2019,DC,4h 10m,Philadelphia,      $216   ,   2:49 PM   –   6:59 PM   
+12,0,,10-31-2019,DC,3h 41m,Philadelphia,      $226   ,   7:00 AM   –   10:41 AM   
+13,0,,10-31-2019,DC,4h 34m,Philadelphia,      $226   ,   1:24 PM   –   5:58 PM   
+14,0,,10-31-2019,DC,4h 41m,Philadelphia,      $231   ,   6:00 AM   –   10:41 AM   
+15,0,,10-31-2019,DC,4h 3m,Philadelphia,      $231   ,   9:34 AM   –   1:37 PM   
+16,0,,10-31-2019,DC,4h 5m,Philadelphia,      $231   ,   10:35 AM   –   2:40 PM   
+17,0,,10-31-2019,DC,4h 19m,Philadelphia,      $231   ,   2:29 PM   –   6:48 PM   
+18,0,,10-31-2019,DC,4h 3m,Philadelphia,      $236   ,   7:56 PM   –   11:59 PM   
+0,0,0.0,11-03-2019,Philadelphia,13h 38m,DC,   $183   ,   9:04 PM   –   10:42 AM+1   
+1,1,0.0,11-03-2019,Philadelphia,4h 58m,DC,      $196   ,   5:01 AM   –   9:59 AM   
+2,2,0.0,11-03-2019,Philadelphia,4h 18m,DC,      $245   ,   7:15 PM   –   11:33 PM   
+3,3,0.0,11-03-2019,Philadelphia,53m,DC,      $390   ,   7:13 PM   –   8:06 PM   
+4,4,0.0,11-03-2019,Philadelphia,6h 32m,DC,      $236   ,   7:38 AM   –   2:10 PM   
+5,5,0.0,11-03-2019,Philadelphia,4h 45m,DC,      $245   ,   6:30 AM   –   11:15 AM   
+6,6,0.0,11-03-2019,Philadelphia,5h 3m,DC,      $245   ,   8:30 AM   –   1:33 PM   
+7,7,0.0,11-03-2019,Philadelphia,4h 47m,DC,      $245   ,   11:45 AM   –   4:32 PM   
+8,8,0.0,11-03-2019,Philadelphia,4h 47m,DC,      $245   ,   12:45 PM   –   5:32 PM   
+9,9,0.0,11-03-2019,Philadelphia,5h 8m,DC,      $245   ,   4:20 PM   –   9:28 PM   
+10,10,0.0,11-03-2019,Philadelphia,5h 12m,DC,      $245   ,   5:30 PM   –   10:42 PM   
+11,11,0.0,11-03-2019,Philadelphia,5h 6m,DC,      $256   ,   7:38 AM   –   12:44 PM   
+12,12,0.0,11-03-2019,Philadelphia,5h 5m,DC,      $256   ,   9:05 AM   –   2:10 PM   
+13,13,0.0,11-03-2019,Philadelphia,3h 39m,DC,      $276   ,   9:05 AM   –   12:44 PM   
+14,14,0.0,11-03-2019,Philadelphia,4h 51m,DC,      $277   ,   12:59 PM   –   5:50 PM   
+15,0,0.0,10-17-2019,DC,56m,Philadelphia,      $390   ,   7:59 AM   –   8:55 AM   
+16,1,0.0,10-17-2019,DC,53m,Philadelphia,      $390   ,   12:25 PM   –   1:18 PM   
+17,2,0.0,10-17-2019,DC,51m,Philadelphia,      $390   ,   4:50 PM   –   5:41 PM   
+18,3,0.0,10-17-2019,DC,56m,Philadelphia,      $390   ,   5:50 PM   –   6:46 PM   
+19,4,0.0,10-17-2019,DC,56m,Philadelphia,      $390   ,   9:45 PM   –   10:41 PM   
+20,5,0.0,10-17-2019,DC,8h 56m,Philadelphia,   $282   ,   8:48 AM   –   5:44 PM   
+21,6,0.0,10-17-2019,DC,7h 20m,Philadelphia,      $344   ,   6:00 AM   –   1:20 PM   
+22,7,0.0,10-17-2019,DC,11h 10m,Philadelphia,      $385   ,   5:09 AM   –   4:19 PM   
+23,8,0.0,10-17-2019,DC,57m,Philadelphia,      $390   ,   1:20 PM   –   2:17 PM   
+24,9,0.0,10-17-2019,DC,4h 1m,Philadelphia,      $395   ,   5:57 PM   –   9:58 PM   
+25,10,0.0,10-17-2019,DC,55m,Philadelphia,      $408   ,   6:43 AM   –   7:38 AM   
+26,11,0.0,10-17-2019,DC,1h 12m,Philadelphia,      $408   ,   5:46 PM   –   6:58 PM   
+27,12,0.0,10-17-2019,DC,1h 5m,Philadelphia,      $408   ,   9:10 PM   –   10:15 PM   
+28,13,0.0,10-17-2019,DC,3h 41m,Philadelphia,      $448   ,   7:00 AM   –   10:41 AM   
+29,14,0.0,10-17-2019,DC,3h 42m,Philadelphia,      $499   ,   8:35 AM   –   12:17 PM   
+30,0,0.0,10-24-2019,DC,8h 56m,Philadelphia,   $154   ,   8:48 AM   –   5:44 PM   
+31,1,0.0,10-24-2019,DC,8h 1m,Philadelphia,   $177   ,   6:30 AM   –   2:31 PM   
+32,2,0.0,10-24-2019,DC,3h 59m,Philadelphia,      $259   ,   8:38 AM   –   12:37 PM   
+33,3,0.0,10-24-2019,DC,51m,Philadelphia,      $390   ,   4:50 PM   –   5:41 PM   
+34,4,0.0,10-24-2019,DC,6h 14m,Philadelphia,   $211   ,   4:50 PM   –   11:04 PM   
+35,5,0.0,10-24-2019,DC,8h 20m,Philadelphia,   $222   ,   8:00 AM   –   4:20 PM   
+36,6,0.0,10-24-2019,DC,4h 15m,Philadelphia,      $259   ,   10:53 AM   –   3:08 PM   
+37,7,0.0,10-24-2019,DC,3h 41m,Philadelphia,      $276   ,   7:00 AM   –   10:41 AM   
+38,8,0.0,10-24-2019,DC,3h 52m,Philadelphia,      $276   ,   12:51 PM   –   4:43 PM   
+39,9,0.0,10-24-2019,DC,4h 3m,Philadelphia,      $286   ,   9:34 AM   –   1:37 PM   
+40,10,0.0,10-24-2019,DC,4h 5m,Philadelphia,      $286   ,   10:35 AM   –   2:40 PM   
+41,11,0.0,10-24-2019,DC,4h 2m,Philadelphia,      $295   ,   3:58 PM   –   8:00 PM   
+42,12,0.0,10-24-2019,DC,4h 1m,Philadelphia,      $295   ,   5:57 PM   –   9:58 PM   
+43,13,0.0,10-24-2019,DC,56m,Philadelphia,      $390   ,   7:59 AM   –   8:55 AM   
+44,14,0.0,10-24-2019,DC,53m,Philadelphia,      $390   ,   12:25 PM   –   1:18 PM   
+45,15,0.0,10-24-2019,DC,57m,Philadelphia,      $390   ,   1:20 PM   –   2:17 PM   
+46,16,0.0,10-24-2019,DC,56m,Philadelphia,      $390   ,   5:50 PM   –   6:46 PM   
+47,17,0.0,10-24-2019,DC,56m,Philadelphia,      $390   ,   9:45 PM   –   10:41 PM   
+48,18,0.0,10-24-2019,DC,3h 42m,Philadelphia,      $391   ,   8:35 AM   –   12:17 PM   
+49,19,0.0,10-24-2019,DC,55m,Philadelphia,      $408   ,   6:43 AM   –   7:38 AM   
+50,20,0.0,10-24-2019,DC,1h 12m,Philadelphia,      $408   ,   5:46 PM   –   6:58 PM   
+51,21,0.0,10-24-2019,DC,1h 5m,Philadelphia,      $408   ,   9:10 PM   –   10:15 PM   
+52,0,0.0,10-20-2019,Philadelphia,53m,DC,      $390   ,   9:21 AM   –   10:14 AM   
+53,1,0.0,10-20-2019,Philadelphia,54m,DC,      $390   ,   2:53 PM   –   3:47 PM   
+54,2,0.0,10-20-2019,Philadelphia,59m,DC,      $390   ,   6:10 PM   –   7:09 PM   
+55,3,0.0,10-20-2019,Philadelphia,59m,DC,      $390   ,   7:11 PM   –   8:10 PM   
+56,4,0.0,10-20-2019,Philadelphia,7h 14m,DC,      $338   ,   8:20 AM   –   3:34 PM   
+57,5,0.0,10-20-2019,Philadelphia,4h 9m,DC,      $379   ,   8:02 AM   –   12:11 PM   
+58,6,0.0,10-20-2019,Philadelphia,4h 18m,DC,      $395   ,   7:15 PM   –   11:33 PM   
+59,7,0.0,10-20-2019,Philadelphia,1h 5m,DC,      $408   ,   8:00 AM   –   9:05 AM   
+60,8,0.0,10-20-2019,Philadelphia,1h 12m,DC,      $408   ,   3:13 PM   –   4:25 PM   
+61,9,0.0,10-20-2019,Philadelphia,1h 4m,DC,      $408   ,   7:10 PM   –   8:14 PM   
+62,10,0.0,10-20-2019,Philadelphia,3h 58m,DC,      $448   ,   8:13 AM   –   12:11 PM   
+63,11,0.0,10-20-2019,Philadelphia,3h 49m,DC,      $499   ,   8:10 PM   –   11:59 PM   
+64,0,0.0,10-31-2019,DC,8h 56m,Philadelphia,   $122   ,   8:48 AM   –   5:44 PM   
+65,1,0.0,10-31-2019,DC,8h 20m,Philadelphia,   $128   ,   8:00 AM   –   4:20 PM   
+66,2,0.0,10-31-2019,DC,8h 36m,Philadelphia,   $171   ,   6:21 AM   –   2:57 PM   
+67,3,0.0,10-31-2019,DC,3h 37m,Philadelphia,      $186   ,   9:34 AM   –   1:11 PM   
+68,4,0.0,10-31-2019,DC,23h 53m,Philadelphia,   $134   ,   4:27 PM   –   4:20 PM+1   
+69,5,0.0,10-31-2019,DC,8h 1m,Philadelphia,   $152   ,   6:30 AM   –   2:31 PM   
+70,6,0.0,10-31-2019,DC,8h 19m,Philadelphia,   $166   ,   7:00 AM   –   3:19 PM   
+71,7,0.0,10-31-2019,DC,3h 46m,Philadelphia,      $186   ,   10:34 AM   –   2:20 PM   
+72,8,0.0,10-31-2019,DC,6h 14m,Philadelphia,   $196   ,   4:50 PM   –   11:04 PM   
+73,9,0.0,10-31-2019,DC,3h 45m,Philadelphia,      $206   ,   10:34 AM   –   2:19 PM   
+74,10,0.0,10-31-2019,DC,5h 35m,Philadelphia,      $206   ,   1:24 PM   –   6:59 PM   
+75,11,0.0,10-31-2019,DC,4h 10m,Philadelphia,      $216   ,   2:49 PM   –   6:59 PM   
+76,12,0.0,10-31-2019,DC,3h 41m,Philadelphia,      $226   ,   7:00 AM   –   10:41 AM   
+77,13,0.0,10-31-2019,DC,4h 34m,Philadelphia,      $226   ,   1:24 PM   –   5:58 PM   
+78,14,0.0,10-31-2019,DC,4h 41m,Philadelphia,      $231   ,   6:00 AM   –   10:41 AM   
+79,15,0.0,10-31-2019,DC,4h 3m,Philadelphia,      $231   ,   9:34 AM   –   1:37 PM   
+80,16,0.0,10-31-2019,DC,4h 5m,Philadelphia,      $231   ,   10:35 AM   –   2:40 PM   
+81,17,0.0,10-31-2019,DC,4h 19m,Philadelphia,      $231   ,   2:29 PM   –   6:48 PM   
+82,18,0.0,10-31-2019,DC,4h 3m,Philadelphia,      $236   ,   7:56 PM   –   11:59 PM   
+83,0,0.0,10-27-2019,Philadelphia,4h 58m,DC,      $259   ,   5:01 AM   –   9:59 AM   
+84,1,0.0,10-27-2019,Philadelphia,53m,DC,      $390   ,   9:21 AM   –   10:14 AM   
+85,2,0.0,10-27-2019,Philadelphia,54m,DC,      $390   ,   2:53 PM   –   3:47 PM   
+86,3,0.0,10-27-2019,Philadelphia,16h 42m,DC,   $237   ,   7:00 AM   –   11:42 PM   
+87,4,0.0,10-27-2019,Philadelphia,4h 15m,DC,      $295   ,   7:00 AM   –   11:15 AM   
+88,5,0.0,10-27-2019,Philadelphia,5h 3m,DC,      $295   ,   8:30 AM   –   1:33 PM   
+89,6,0.0,10-27-2019,Philadelphia,4h 47m,DC,      $295   ,   11:45 AM   –   4:32 PM   
+90,7,0.0,10-27-2019,Philadelphia,4h 47m,DC,      $295   ,   12:45 PM   –   5:32 PM   
+91,8,0.0,10-27-2019,Philadelphia,4h 46m,DC,      $295   ,   2:45 PM   –   7:31 PM   
+92,9,0.0,10-27-2019,Philadelphia,5h 13m,DC,      $295   ,   4:15 PM   –   9:28 PM   
+93,10,0.0,10-27-2019,Philadelphia,5h 12m,DC,      $295   ,   5:30 PM   –   10:42 PM   
+94,11,0.0,10-27-2019,Philadelphia,4h 48m,DC,      $295   ,   6:45 PM   –   11:33 PM   
+95,12,0.0,10-27-2019,Philadelphia,6h 21m,DC,   $301   ,   6:05 AM   –   12:26 PM   
+96,13,0.0,10-27-2019,Philadelphia,6h 23m,DC,      $321   ,   8:00 AM   –   2:23 PM   
+97,14,0.0,10-27-2019,Philadelphia,7h 25m,DC,      $334   ,   5:06 PM   –   12:31 AM+1   
+98,15,0.0,10-27-2019,Philadelphia,59m,DC,      $390   ,   6:10 PM   –   7:09 PM   
+99,16,0.0,10-27-2019,Philadelphia,59m,DC,      $390   ,   7:11 PM   –   8:10 PM   
+100,17,0.0,10-27-2019,Philadelphia,1h 5m,DC,      $408   ,   8:00 AM   –   9:05 AM   
+101,18,0.0,10-27-2019,Philadelphia,1h 12m,DC,      $408   ,   3:13 PM   –   4:25 PM   
+102,19,0.0,10-27-2019,Philadelphia,1h 4m,DC,      $408   ,   7:10 PM   –   8:14 PM   
+0,0,,10-27-2019,Philadelphia,4h 58m,DC,      $259   ,   5:01 AM   –   9:59 AM   
+1,0,,10-27-2019,Philadelphia,53m,DC,      $390   ,   9:21 AM   –   10:14 AM   
+2,0,,10-27-2019,Philadelphia,54m,DC,      $390   ,   2:53 PM   –   3:47 PM   
+3,0,,10-27-2019,Philadelphia,16h 42m,DC,   $237   ,   7:00 AM   –   11:42 PM   
+4,0,,10-27-2019,Philadelphia,4h 15m,DC,      $295   ,   7:00 AM   –   11:15 AM   
+5,0,,10-27-2019,Philadelphia,5h 3m,DC,      $295   ,   8:30 AM   –   1:33 PM   
+6,0,,10-27-2019,Philadelphia,4h 47m,DC,      $295   ,   11:45 AM   –   4:32 PM   
+7,0,,10-27-2019,Philadelphia,4h 47m,DC,      $295   ,   12:45 PM   –   5:32 PM   
+8,0,,10-27-2019,Philadelphia,4h 46m,DC,      $295   ,   2:45 PM   –   7:31 PM   
+9,0,,10-27-2019,Philadelphia,5h 13m,DC,      $295   ,   4:15 PM   –   9:28 PM   
+10,0,,10-27-2019,Philadelphia,5h 12m,DC,      $295   ,   5:30 PM   –   10:42 PM   
+11,0,,10-27-2019,Philadelphia,4h 48m,DC,      $295   ,   6:45 PM   –   11:33 PM   
+12,0,,10-27-2019,Philadelphia,6h 21m,DC,   $301   ,   6:05 AM   –   12:26 PM   
+13,0,,10-27-2019,Philadelphia,6h 23m,DC,      $321   ,   8:00 AM   –   2:23 PM   
+14,0,,10-27-2019,Philadelphia,7h 25m,DC,      $334   ,   5:06 PM   –   12:31 AM+1   
+15,0,,10-27-2019,Philadelphia,59m,DC,      $390   ,   6:10 PM   –   7:09 PM   
+16,0,,10-27-2019,Philadelphia,59m,DC,      $390   ,   7:11 PM   –   8:10 PM   
+17,0,,10-27-2019,Philadelphia,1h 5m,DC,      $408   ,   8:00 AM   –   9:05 AM   
+18,0,,10-27-2019,Philadelphia,1h 12m,DC,      $408   ,   3:13 PM   –   4:25 PM   
+19,0,,10-27-2019,Philadelphia,1h 4m,DC,      $408   ,   7:10 PM   –   8:14 PM   
